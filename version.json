@@ -1,0 +1,18 @@
+[
+    {
+        "appid": "steam_546560",
+        "game_name": "HalfLifeAlyx",
+        "author_name": "vr-commiter",
+        "desc": "HalfLifeAlyx TrueGear Suit Driver",
+        "website": "https://github.com/vr-commiter/HLA_TrueGear",
+        "version_list": [
+            {
+                "date_updated": "",
+                "download_link": "https://github.com/vr-commiter/HLA_TrueGear/releases/download/v0.1.0-beta/steam_546560.zip",
+                "md5_value": "c6b4ade0bbde1a826cfe460667c2ba9c",
+                "version": "v0.1.0-beta",
+                "status": "beta"
+            }
+        ]
+    }
+]

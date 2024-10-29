@@ -1,3 +1,7 @@
 [
-    "steam_546560"
+    {
+        "game_name": "Half-Life: Alyx",
+        "appid": "steam_546560",
+        "platform": "steam"
+    }
 ]

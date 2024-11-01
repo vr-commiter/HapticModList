@@ -58,5 +58,10 @@
         "appid": "steam_751630",
         "game_name": "After The Fall",
         "platform": "steam"
+    },
+    {
+        "appid": "steam_843390",
+        "game_name": "Vertigo 2",
+        "platform": "steam"
     }
 ]

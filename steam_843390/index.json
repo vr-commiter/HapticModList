@@ -1,0 +1,11 @@
+{
+    "game_name": "Vertigo 2",
+    "appid": "steam_843390",
+    "mods": [
+        {
+            "author_name": "vr-commiter",
+            "json": "truegear_driver.json",
+            "title": "Vertigo 2 TrueGear Suit Mod"
+        }
+    ]
+}

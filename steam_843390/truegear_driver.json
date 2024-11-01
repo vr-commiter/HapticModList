@@ -1,0 +1,16 @@
+{
+    "author_name": "vr-commiter",
+    "game_name": "Vertigo 2",
+    "appid": "steam_843390",
+    "desc": "Vertigo 2 TrueGear Suit Mod",
+    "website": "https://github.com/vr-commiter/Vertigo2",
+    "version_list": [
+        {
+            "date_updated": "",
+            "download_link": "https://github.com/vr-commiter/Vertigo2/releases/download/v0.1.0-beta/steam_843390.zip",
+            "md5_value": "c6b2369701ca15b2f90ac9d8036f66d6",
+            "version": "v0.1.0-beta",
+            "status": "beta"
+        }
+    ]
+}

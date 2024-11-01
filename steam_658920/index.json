@@ -1,7 +1,11 @@
-[
-    {
-        "author_name": "vr-commiter",
-        "json": "truegear_driver.json",
-        "title": "Half-Life 2: VR Mod TrueGear Suit Mod"
-    }
-]
+{
+    "game_name": "Half-Life 2: VR Mod",
+    "appid": "steam_658920",
+    "mods": [
+        {
+            "author_name": "vr-commiter",
+            "file": "truegear_driver.json",
+            "title": "Half-Life 2: VR Mod TrueGear Suit Mod"
+        }
+    ]
+}

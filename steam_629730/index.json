@@ -1,7 +1,11 @@
-[
-    {
-        "author_name": "vr-commiter",
-        "json": "truegear_driver.json",
-        "title": "Blade & Sorcery TrueGear Suit Mod"
-    }
-]
+{
+    "appid": "steam_629730",
+    "game_name": "Blade & Sorcery",
+    "mods": [
+        {
+            "author_name": "vr-commiter",
+            "file": "truegear_driver.json",
+            "title": "Blade & Sorcery TrueGear Suit Mod"
+        }
+    ]
+}

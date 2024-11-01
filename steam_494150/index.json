@@ -1,7 +1,11 @@
-[
-    {
-        "author_name": "vr-commiter",
-        "json": "truegear_driver.json",
-        "title": "The Thrill of the Fight TrueGear Suit Mod"
-    }
-]
+{
+    "game_name": "The Thrill of the Fight",
+    "appid": "steam_494150",
+    "mods": [
+        {
+            "author_name": "vr-commiter",
+            "json": "truegear_driver.json",
+            "title": "The Thrill of the Fight TrueGear Suit Mod"
+        }
+    ]
+}

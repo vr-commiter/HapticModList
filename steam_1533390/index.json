@@ -1,7 +1,11 @@
-[
-    {
-        "author_name": "vr-commiter",
-        "json": "truegear_driver.json",
-        "title": "Gorilla Tag TrueGear Suit Mod"
-    }
-]
+{
+    "game_name": "Gorilla Tag",
+    "appid": "steam_1533390",
+    "mods": [
+        {
+            "author_name": "vr-commiter",
+            "json": "truegear_driver.json",
+            "title": "Gorilla Tag TrueGear Suit Mod"
+        }
+    ]
+}

@@ -1,7 +1,11 @@
-[
-    {
-        "author_name": "vr-commiter",
-        "json": "truegear_driver.json",
-        "title": "Arizona Sunshine® 2 TrueGear Suit Mod"
-    }
-]
+{
+    "game_name": "Arizona Sunshine® 2",
+    "appid": "steam_1540210",
+    "mods": [
+        {
+            "author_name": "vr-commiter",
+            "json": "truegear_driver.json",
+            "title": "Arizona Sunshine® 2 TrueGear Suit Mod"
+        }
+    ]
+}

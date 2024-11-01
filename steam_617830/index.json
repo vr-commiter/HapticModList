@@ -1,7 +1,11 @@
-[
-    {
-        "author_name": "vr-commiter",
-        "json": "truegear_driver.json",
-        "title": "Half-Life: Alyx TrueGear Suit Driver"
-    }
-]
+{
+    "appid": "steam_546560",
+    "game_name": "SUPERHOT VR",
+    "mods": [
+        {
+            "author_name": "vr-commiter",
+            "file": "truegear_driver.json",
+            "title": "SUPERHOT VR TrueGear Suit Mod"
+        }
+    ]
+}

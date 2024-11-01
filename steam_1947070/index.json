@@ -1,7 +1,11 @@
-[
-    {
-        "author_name": "vr-commiter",
-        "json": "truegear_driver.json",
-        "title": "Broken Edge TrueGear Suit Mod"
-    }
-]
+{
+    "game_name": "Broken Edge",
+    "appid": "steam_1947070",
+    "mods": [
+        {
+            "author_name": "vr-commiter",
+            "json": "truegear_driver.json",
+            "title": "Broken Edge TrueGear Suit Mod"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "author_name": "vr-commiter",
+    "game_name": "POPULATION: ONE",
+    "appid": "steam_691260",
+    "desc": "POPULATION: ONE TrueGear Suit Mod",
+    "website": "https://github.com/vr-commiter/PopulationOne",
+    "version_list": [
+        {
+            "date_updated": "",
+            "download_link": "https://github.com/vr-commiter/PopulationOne/releases/download/v0.1.0-beta/steam_691260.zip",
+            "md5_value": "bf20f555725c63e1560f97f5b1b6a474",
+            "version": "v0.1.0-beta",
+            "status": "beta"
+        }
+    ]
+}

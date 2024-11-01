@@ -1,7 +1,57 @@
 [
     {
+        "game_name": "SUPERHOT VR",
+        "appid": "steam_617830",
+        "platform": "steam"
+    },
+    {
+        "game_name": "Arizona Sunshine® 2",
+        "appid": "steam_1540210",
+        "platform": "steam"
+    },
+    {
         "game_name": "Half-Life: Alyx",
         "appid": "steam_546560",
+        "platform": "steam"
+    },
+    {
+        "appid": "steam_629730",
+        "game_name": "Blade & Sorcery",
+        "platform": "steam"
+    },
+    {
+        "appid": "steam_1079800",
+        "game_name": "Pistol Whip",
+        "platform": "steam"
+    },
+    {
+        "appid": "steam_1533390",
+        "game_name": "Gorilla Tag",
+        "platform": "steam"
+    },
+    {
+        "appid": "steam_1947070",
+        "game_name": "Broken Edge",
+        "platform": "steam"
+    },
+    {
+        "appid": "steam_494150",
+        "game_name": "The Thrill of the Fight",
+        "platform": "steam"
+    },
+    {
+        "appid": "steam_620980",
+        "game_name": "Beat Saber",
+        "platform": "steam"
+    },
+    {
+        "appid": "steam_658920",
+        "game_name": "Half-Life 2: VR Mod",
+        "platform": "steam"
+    },
+    {
+        "appid": "steam_691260",
+        "game_name": "POPULATION: ONE",
         "platform": "steam"
     }
 ]

@@ -1,0 +1,16 @@
+{
+    "author_name": "vr-commiter",
+    "game_name": "Half-Life 2: VR Mod",
+    "appid": "steam_658920",
+    "desc": "Half-Life 2: VR Mod TrueGear Suit Mod",
+    "website": "https://github.com/vr-commiter/HalfLife2vr",
+    "version_list": [
+        {
+            "date_updated": "",
+            "download_link": "https://github.com/vr-commiter/HalfLife2vr/releases/download/v0.1.0-beta/steam_658920.zip",
+            "md5_value": "16a42cad8463382b0e9b7bf68928b327",
+            "version": "v0.1.0-beta",
+            "status": "beta"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "author_name": "vr-commiter",
+    "game_name": "Broken Edge",
+    "appid": "steam_1947070",
+    "desc": "Broken Edge TrueGear Suit Mod",
+    "website": "https://github.com/vr-commiter/BrokenEdge",
+    "version_list": [
+        {
+            "date_updated": "",
+            "download_link": "https://github.com/vr-commiter/BrokenEdge/releases/download/v0.1.0-beta/steam_1947070.zip",
+            "md5_value": "8e4ea813af8d136fe53103c660617d42",
+            "version": "v0.1.0-beta",
+            "status": "beta"
+        }
+    ]
+}

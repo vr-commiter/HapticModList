@@ -1,0 +1,16 @@
+{
+    "author_name": "vr-commiter",
+    "game_name": "Beat Saber",
+    "appid": "steam_620980",
+    "desc": "Beat Saber TrueGear Suit Mod",
+    "website": "https://github.com/vr-commiter/BeatSaber",
+    "version_list": [
+        {
+            "date_updated": "",
+            "download_link": "https://github.com/vr-commiter/BeatSaber/releases/download/v0.1.0-beta/steam_620980.zip",
+            "md5_value": "9f0aabaa68346d3b905bb85ee173a34d",
+            "version": "v0.1.0-beta",
+            "status": "beta"
+        }
+    ]
+}

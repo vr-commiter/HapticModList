@@ -1,0 +1,16 @@
+{
+    "appid": "steam_546560",
+    "game_name": "SUPERHOT VR",
+    "author_name": "vr-commiter",
+    "desc": "SUPERHOT VR TrueGear Suit Mod",
+    "website": "https://github.com/vr-commiter/SuperHotVR",
+    "version_list": [
+        {
+            "date_updated": "",
+            "download_link": "https://github.com/vr-commiter/SuperHotVR/releases/download/v1.0.0/steam_617830.zip",
+            "md5_value": "2908fd6bfc9de569be96598293824c14",
+            "version": "v1.0.0",
+            "status": "beta"
+        }
+    ]
+}

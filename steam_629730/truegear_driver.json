@@ -1,0 +1,16 @@
+{
+    "author_name": "vr-commiter",
+    "game_name": "Blade & Sorcery",
+    "appid": "steam_629730",
+    "desc": "Blade & Sorcery TrueGear Suit Mod",
+    "website": "https://github.com/vr-commiter/BladeAndSorcy",
+    "version_list": [
+        {
+            "date_updated": "",
+            "download_link": "https://github.com/vr-commiter/BladeAndSorcy/releases/download/v0.1.0-beta/steam_629730.zip",
+            "md5_value": "c3e3e4176319cb0f2dd366a15367c5fd",
+            "version": "v0.1.0-beta",
+            "status": "beta"
+        }
+    ]
+}

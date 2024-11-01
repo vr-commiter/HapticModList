@@ -1,0 +1,16 @@
+{
+    "author_name": "vr-commiter",
+    "game_name": "Pistol Whip",
+    "appid": "steam_1079800",
+    "desc": "Pistol Whip TrueGear Suit Mod",
+    "website": "https://github.com/vr-commiter/PistolWhip",
+    "version_list": [
+        {
+            "date_updated": "",
+            "download_link": "https://github.com/vr-commiter/PistolWhip/releases/download/v0.1.0-beta/steam_1079800.zip",
+            "md5_value": "fdfa4e1b86455c419e596e479efd705b",
+            "version": "v0.1.0-beta",
+            "status": "beta"
+        }
+    ]
+}

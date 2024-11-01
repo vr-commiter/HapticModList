@@ -1,0 +1,16 @@
+{
+    "author_name": "vr-commiter",
+    "game_name": "Gorilla Tag",
+    "appid": "steam_1533390",
+    "desc": "Gorilla Tag TrueGear Suit Mod",
+    "website": "https://github.com/vr-commiter/Gorilla",
+    "version_list": [
+        {
+            "date_updated": "",
+            "download_link": "https://github.com/vr-commiter/Gorilla/releases/download/v0.1.0-beta/steam_1533390.zip",
+            "md5_value": "96b3122fe059ca270a08fafd91e1d47a",
+            "version": "v0.1.0-beta",
+            "status": "beta"
+        }
+    ]
+}

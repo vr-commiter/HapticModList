@@ -63,5 +63,15 @@
         "appid": "steam_843390",
         "game_name": "Vertigo 2",
         "platform": "steam"
+    },
+    {
+        "appid": "steam_858260",
+        "game_name": "Until You Fall",
+        "platform": "steam"
+    },
+    {
+        "appid": "steam_438100",
+        "game_name": "VRChat",
+        "platform": "steam"
     }
 ]

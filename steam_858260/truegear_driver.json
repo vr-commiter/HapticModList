@@ -1,0 +1,16 @@
+{
+    "author_name": "vr-commiter",
+    "game_name": "Until You Fall",
+    "appid": "steam_858260",
+    "desc": "Until You Fall TrueGear Suit Mod",
+    "website": "https://github.com/vr-commiter/UntilYouFall",
+    "version_list": [
+        {
+            "date_updated": "",
+            "download_link": "https://github.com/vr-commiter/UntilYouFall/releases/download/v0.1.0-beta/steam_858260.zip",
+            "md5_value": "2553659b436bf048aeaf081671720e34",
+            "version": "v0.1.0-beta",
+            "status": "beta"
+        }
+    ]
+}

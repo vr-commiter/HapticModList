@@ -1,0 +1,16 @@
+{
+    "author_name": "vr-commiter",
+    "game_name": "VRChat",
+    "appid": "steam_438100",
+    "desc":  "VRChat TrueGear Suit Driver",
+    "website": "https://github.com/vr-commiter/VRChat",
+    "version_list": [
+        {
+            "date_updated": "",
+            "download_link": "https://github.com/vr-commiter/VRChat/releases/download/v0.1.0-beta/steam_438100.zip",
+            "md5_value": "acb1a3f19d3150f427395a37f8487e16",
+            "version": "v0.1.0-beta",
+            "status": "beta"
+        }
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "game_name": "Until You Fall",
+    "appid": "steam_858260",
+    "mods": [
+        {
+            "author_name": "vr-commiter",
+            "json": "truegear_driver.json",
+            "title": "Until You Fall TrueGear Suit Mod"
+        }
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "game_name": "VRChat",
+    "appid": "steam_438100",
+    "mods": [
+        {
+            "author_name": "vr-commiter",
+            "json": "truegear_driver.json",
+            "title": "VRChat TrueGear Suit Driver"
+        }
+    ]
+}

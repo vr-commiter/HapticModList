@@ -53,5 +53,10 @@
         "appid": "steam_691260",
         "game_name": "POPULATION: ONE",
         "platform": "steam"
+    },
+    {
+        "appid": "steam_751630",
+        "game_name": "After The Fall",
+        "platform": "steam"
     }
 ]

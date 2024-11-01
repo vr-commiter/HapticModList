@@ -1,0 +1,11 @@
+{
+    "game_name": "After The Fall",
+    "appid": "steam_751630",
+    "mods": [
+        {
+            "author_name": "vr-commiter",
+            "json": "truegear_driver.json",
+            "title": "After The Fall TrueGear Suit Mod"
+        }
+    ]
+}

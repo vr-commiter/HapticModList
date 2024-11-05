@@ -1,0 +1,11 @@
+{
+    "game_name": "All-In-One Sports VR",
+    "appid": "steam_1514840",
+    "mods": [
+        {
+            "author_name": "vr-commiter",
+            "json": "truegear_driver.json",
+            "title": "All-In-One Sports VR TrueGear Suit Mod"
+        }
+    ]
+}

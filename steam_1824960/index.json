@@ -1,0 +1,11 @@
+{
+    "game_name": "Propagation: Paradise Hotel",
+    "appid": "steam_1824960",
+    "mods": [
+        {
+            "author_name": "vr-commiter",
+            "json": "truegear_driver.json",
+            "title": "Propagation: Paradise Hotel TrueGear Suit Mod"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "author_name": "vr-commiter",
+    "game_name": "Vampire: The Masquerade - Justice",
+    "appid": "steam_2431700",
+    "desc": "Vampire: The Masquerade - Justice TrueGear Suit Mod",
+    "website": "https://github.com/vr-commiter/Vampire-The-Masquerade---Justice",
+    "version_list": [],
+    "mods": [
+        {
+            "date_updated": "",
+            "download_link": "https://github.com/vr-commiter/Vampire-The-Masquerade---Justice/releases/download/v0.1.0-beta/steam_2431700.zip",
+            "md5_value": "fdfa4e1b86455c419e596e479efd705b",
+            "version": "v0.1.0-beta",
+            "status": "beta"
+        }
+    ]
+}

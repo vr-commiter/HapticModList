@@ -1,0 +1,11 @@
+{
+    "game_name": "GORN",
+    "appid": "steam_578620",
+    "mods": [
+        {
+            "author_name": "vr-commiter",
+            "json": "truegear_driver.json",
+            "title": "GORN TrueGear Suit Mod"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "author_name": "vr-commiter",
+    "game_name": "All-In-One Sports VR",
+    "appid": "steam_1514840",
+    "desc": "All-In-One Sports VR TrueGear Suit Mod",
+    "website": "https://github.com/vr-commiter/All-In-One-Sports-VR",
+    "version_list": [],
+    "mods": [
+        {
+            "date_updated": "",
+            "download_link": "https://github.com/vr-commiter/All-In-One-Sports-VR/releases/download/v0.1.0-beta/steam_1514840.zip",
+            "md5_value": "90ad9d0692f61cf873c171a1ab72653e",
+            "version": "v0.1.0-beta",
+            "status": "beta"
+        }
+    ]
+}

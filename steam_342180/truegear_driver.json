@@ -1,0 +1,17 @@
+{
+    "author_name": "vr-commiter",
+    "game_name": "Arizona Sunshine",
+    "appid": "steam_342180",
+    "desc": "Arizona Sunshine TrueGear Suit Mod",
+    "website": "https://github.com/vr-commiter/ArizonaSunshine",
+    "version_list": [],
+    "mods": [
+        {
+            "date_updated": "",
+            "download_link": "https://github.com/vr-commiter/ArizonaSunshine/releases/download/v0.1.0-beta/steam_342180.zip",
+            "md5_value": "6c93c416b8c21f255c20c0e5cd0b4128",
+            "version": "v0.1.0-beta",
+            "status": "beta"
+        }
+    ]
+}

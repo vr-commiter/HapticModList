@@ -1,0 +1,11 @@
+{
+    "game_name": "Labyrinthine",
+    "appid": "steam_1302240",
+    "mods": [
+        {
+            "author_name": "vr-commiter",
+            "json": "truegear_driver.json",
+            "title": "Labyrinthine TrueGear Suit Mod"
+        }
+    ]
+}

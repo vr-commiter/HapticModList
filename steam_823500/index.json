@@ -1,0 +1,11 @@
+{
+    "game_name": "BONEWORKS",
+    "appid": "steam_823500",
+    "mods": [
+        {
+            "author_name": "vr-commiter",
+            "json": "truegear_driver.json",
+            "title": "BONEWORKS TrueGear Suit Mod"
+        }
+    ]
+}

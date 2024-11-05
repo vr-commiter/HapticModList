@@ -1,0 +1,11 @@
+{
+    "game_name": "Subnautica",
+    "appid": "steam_264710",
+    "mods": [
+        {
+            "author_name": "vr-commiter",
+            "json": "truegear_driver.json",
+            "title": "Subnautica TrueGear Suit Mod"
+        }
+    ]
+}

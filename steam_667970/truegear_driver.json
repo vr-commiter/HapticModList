@@ -1,0 +1,17 @@
+{
+    "author_name": "vr-commiter",
+    "game_name": "VTOL VR",
+    "appid": "steam_667970",
+    "desc": "VTOL VR TrueGear Suit Mod",
+    "website": "https://github.com/vr-commiter/VTOLVR",
+    "version_list": [],
+    "mods": [
+        {
+            "date_updated": "",
+            "download_link": "https://github.com/vr-commiter/VTOLVR/releases/download/v0.1.0-beta/steam_667970.zip",
+            "md5_value": "2ccecc9f624e499c0d08b2e6d3495090",
+            "version": "v0.1.0-beta",
+            "status": "beta"
+        }
+    ]
+}

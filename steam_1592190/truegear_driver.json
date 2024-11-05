@@ -1,0 +1,17 @@
+{
+    "author_name": "vr-commiter",
+    "game_name": "BONELAB",
+    "appid": "steam_1592190",
+    "desc": "BONELAB TrueGear Suit Mod",
+    "website": "https://github.com/vr-commiter/BONELAB",
+    "version_list": [],
+    "mods": [
+        {
+            "date_updated": "",
+            "download_link": "https://github.com/vr-commiter/BONELAB/releases/download/v0.1.0-beta/steam_1592190.zip",
+            "md5_value": "88c53445f24fa327f762c8d63fef0546",
+            "version": "v0.1.0-beta",
+            "status": "beta"
+        }
+    ]
+}

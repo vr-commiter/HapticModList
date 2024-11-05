@@ -1,0 +1,11 @@
+{
+    "game_name": "Rampage Agents",
+    "appid": "steam_2492600",
+    "mods": [
+        {
+            "author_name": "vr-commiter",
+            "json": "truegear_driver.json",
+            "title": "Rampage Agents TrueGear Suit Mod"
+        }
+    ]
+}

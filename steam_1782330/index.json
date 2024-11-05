@@ -1,0 +1,11 @@
+{
+    "game_name": "Green Hell VR",
+    "appid": "steam_1782330",
+    "mods": [
+        {
+            "author_name": "vr-commiter",
+            "json": "truegear_driver.json",
+            "title": "Green Hell VR TrueGear Suit Mod"
+        }
+    ]
+}

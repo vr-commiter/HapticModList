@@ -1,0 +1,11 @@
+{
+    "game_name": "The Lab",
+    "appid": "steam_450390",
+    "mods": [
+        {
+            "author_name": "vr-commiter",
+            "json": "truegear_driver.json",
+            "title": "The Lab TrueGear Suit Mod"
+        }
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "game_name": "Hot Dogs, Horseshoes & Hand Grenades",
+    "appid": "steam_450540",
+    "mods": [
+        {
+            "author_name": "vr-commiter",
+            "json": "truegear_driver.json",
+            "title": "Hot Dogs, Horseshoes & Hand Grenades TrueGear Suit Mod"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "author_name": "vr-commiter",
+    "game_name": "Contractors VR",
+    "appid": "steam_963930",
+    "desc": "Contractors VR TrueGear Suit Mod",
+    "website": "https://github.com/vr-commiter/ContractorsVR",
+    "version_list": [],
+    "mods": [
+        {
+            "date_updated": "",
+            "download_link": "https://github.com/vr-commiter/ContractorsVR/releases/download/v0.1.0-beta/steam_963930.zip",
+            "md5_value": "dacf599a330ba86528f9387428880694",
+            "version": "v0.1.0-beta",
+            "status": "beta"
+        }
+    ]
+}

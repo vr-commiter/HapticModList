@@ -1,0 +1,17 @@
+{
+    "author_name": "vr-commiter",
+    "game_name": "Into the Radius 2",
+    "appid": "steam_2307350",
+    "desc": "Into the Radius 2 TrueGear Suit Mod",
+    "website": "https://github.com/vr-commiter/Into-the-Radius-2",
+    "version_list": [],
+    "mods": [
+        {
+            "date_updated": "",
+            "download_link": "https://github.com/vr-commiter/Into-the-Radius-2/releases/download/v0.1.0-beta/steam_2307350.zip",
+            "md5_value": "afb54b28571c5bdd7ef0573fa403fbd7",
+            "version": "v0.1.0-beta",
+            "status": "beta"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "author_name": "vr-commiter",
+    "game_name": "VAIL",
+    "appid": "steam_801550",
+    "desc": "VAIL TrueGear Suit Mod",
+    "website": "https://github.com/vr-commiter/VAIL",
+    "version_list": [],
+    "mods": [
+        {
+            "date_updated": "",
+            "download_link": "https://github.com/vr-commiter/VAIL/releases/download/v0.1.0-beta/steam_801550.zip",
+            "md5_value": "dab31b55d8e4dbd6a33fddffbcab8d34",
+            "version": "v0.1.0-beta",
+            "status": "beta"
+        }
+    ]
+}

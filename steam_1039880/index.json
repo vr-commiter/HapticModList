@@ -1,0 +1,11 @@
+{
+    "game_name": "Hellsplit: Arena",
+    "appid": "steam_1039880",
+    "mods": [
+        {
+            "author_name": "vr-commiter",
+            "json": "truegear_driver.json",
+            "title": "Hellsplit: Arena TrueGear Suit Mod"
+        }
+    ]
+}

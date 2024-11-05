@@ -1,0 +1,11 @@
+{
+    "game_name": "Resident Evil 7 Biohazard",
+    "appid": "steam_418370",
+    "mods": [
+        {
+            "author_name": "vr-commiter",
+            "json": "truegear_driver.json",
+            "title": "Resident Evil 7 Biohazard TrueGear Suit Mod"
+        }
+    ]
+}

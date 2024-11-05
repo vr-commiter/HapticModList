@@ -1,0 +1,11 @@
+{
+    "game_name": "Arizona Sunshine\u00ae Remake",
+    "appid": "steam_2897700",
+    "mods": [
+        {
+            "author_name": "vr-commiter",
+            "json": "truegear_driver.json",
+            "title": "Arizona Sunshine\u00ae Remake TrueGear Suit Mod"
+        }
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "game_name": "UNDERDOGS",
+    "appid": "steam_2441700",
+    "mods": [
+        {
+            "author_name": "vr-commiter",
+            "json": "truegear_driver.json",
+            "title": "UNDERDOGS TrueGear Suit Mod"
+        }
+    ]
+}

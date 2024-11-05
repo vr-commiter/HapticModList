@@ -1,0 +1,11 @@
+{
+    "game_name": "VTOL VR",
+    "appid": "steam_667970",
+    "mods": [
+        {
+            "author_name": "vr-commiter",
+            "json": "truegear_driver.json",
+            "title": "VTOL VR TrueGear Suit Mod"
+        }
+    ]
+}

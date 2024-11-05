@@ -1,0 +1,17 @@
+{
+    "author_name": "vr-commiter",
+    "game_name": "COMPOUND",
+    "appid": "steam_615120",
+    "desc": "COMPOUND TrueGear Suit Mod",
+    "website": "https://github.com/vr-commiter/COMPOUND",
+    "version_list": [],
+    "mods": [
+        {
+            "date_updated": "",
+            "download_link": "https://github.com/vr-commiter/COMPOUND/releases/download/v0.1.0-beta/steam_615120.zip",
+            "md5_value": "41600762c948d1d8dde948b6eb3b3a5b",
+            "version": "v0.1.0-beta",
+            "status": "beta"
+        }
+    ]
+}

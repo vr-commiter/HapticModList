@@ -1,0 +1,17 @@
+{
+    "author_name": "vr-commiter",
+    "game_name": "Hot Dogs, Horseshoes & Hand Grenades",
+    "appid": "steam_450540",
+    "desc": "Hot Dogs, Horseshoes & Hand Grenades TrueGear Suit Mod",
+    "website": "https://github.com/vr-commiter/Hot-Dogs-Horseshoes-Hand-Grenades",
+    "version_list": [],
+    "mods": [
+        {
+            "date_updated": "",
+            "download_link": "https://github.com/vr-commiter/Hot-Dogs-Horseshoes-Hand-Grenades/releases/download/v0.1.0-beta/steam_450540.zip",
+            "md5_value": "a5b3ee1fbe1966e18d2bfcaa77f0a29d",
+            "version": "v0.1.0-beta",
+            "status": "beta"
+        }
+    ]
+}

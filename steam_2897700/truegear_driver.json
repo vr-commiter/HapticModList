@@ -1,0 +1,17 @@
+{
+    "author_name": "vr-commiter",
+    "game_name": "Arizona Sunshine\u00ae Remake",
+    "appid": "steam_2897700",
+    "desc": "Arizona Sunshine\u00ae Remake TrueGear Suit Mod",
+    "website": "https://github.com/vr-commiter/Arizona-Sunshine-Remake",
+    "version_list": [],
+    "mods": [
+        {
+            "date_updated": "",
+            "download_link": "https://github.com/vr-commiter/Arizona-Sunshine-Remake/releases/download/v0.1.0-beta/steam_2897700.zip",
+            "md5_value": "3caf6fcf589c4069d5fc392fa043135d",
+            "version": "v0.1.0-beta",
+            "status": "beta"
+        }
+    ]
+}

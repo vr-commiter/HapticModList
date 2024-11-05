@@ -1,0 +1,17 @@
+{
+    "author_name": "vr-commiter",
+    "game_name": "Black Myth: Wukong",
+    "appid": "steam_2358720",
+    "desc": "Black Myth: Wukong TrueGear Suit Mod",
+    "website": "https://github.com/vr-commiter/Black-Myth-Wukong",
+    "version_list": [],
+    "mods": [
+        {
+            "date_updated": "",
+            "download_link": "https://github.com/vr-commiter/Black-Myth-Wukong/releases/download/v0.1.0-beta/steam_2358720.zip",
+            "md5_value": "6036859ca510ecb26992ea449899363e",
+            "version": "v0.1.0-beta",
+            "status": "beta"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "author_name": "vr-commiter",
+    "game_name": "Inside the Backrooms",
+    "appid": "steam_1987080",
+    "desc": "Inside the Backrooms TrueGear Suit Mod",
+    "website": "https://github.com/vr-commiter/Inside-the-Backrooms",
+    "version_list": [],
+    "mods": [
+        {
+            "date_updated": "",
+            "download_link": "https://github.com/vr-commiter/Inside-the-Backrooms/releases/download/v0.1.0-beta/steam_1987080.zip",
+            "md5_value": "a9352113c9f8506efe8406585c7930fa",
+            "version": "v0.1.0-beta",
+            "status": "beta"
+        }
+    ]
+}

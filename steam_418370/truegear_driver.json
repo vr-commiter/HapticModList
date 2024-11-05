@@ -1,0 +1,17 @@
+{
+    "author_name": "vr-commiter",
+    "game_name": "Resident Evil 7 Biohazard",
+    "appid": "steam_418370",
+    "desc": "Resident Evil 7 Biohazard TrueGear Suit Mod",
+    "website": "https://github.com/vr-commiter/Resident-Evil-7-Biohazard",
+    "version_list": [],
+    "mods": [
+        {
+            "date_updated": "",
+            "download_link": "https://github.com/vr-commiter/Resident-Evil-7-Biohazard/releases/download/v0.1.0-beta/steam_418370.zip",
+            "md5_value": "43a1b4db0f48beb0d391c3101be95abd",
+            "version": "v0.1.0-beta",
+            "status": "beta"
+        }
+    ]
+}

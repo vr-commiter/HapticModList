@@ -1,0 +1,11 @@
+{
+    "game_name": "The Forest",
+    "appid": "steam_242760",
+    "mods": [
+        {
+            "author_name": "vr-commiter",
+            "json": "truegear_driver.json",
+            "title": "The Forest TrueGear Suit Mod"
+        }
+    ]
+}

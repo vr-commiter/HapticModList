@@ -1,0 +1,17 @@
+{
+    "author_name": "vr-commiter",
+    "game_name": "Hellsplit: Arena",
+    "appid": "steam_1039880",
+    "desc": "Hellsplit: Arena TrueGear Suit Mod",
+    "website": "https://github.com/vr-commiter/Hellsplit-Arena",
+    "version_list": [],
+    "mods": [
+        {
+            "date_updated": "",
+            "download_link": "https://github.com/vr-commiter/Hellsplit-Arena/releases/download/v0.1.0-beta/steam_1039880.zip",
+            "md5_value": "720654ffa4e06ee6a7db041a1464c43b",
+            "version": "v0.1.0-beta",
+            "status": "beta"
+        }
+    ]
+}

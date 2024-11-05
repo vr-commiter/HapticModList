@@ -1,0 +1,17 @@
+{
+    "author_name": "vr-commiter",
+    "game_name": "UNDERDOGS",
+    "appid": "steam_2441700",
+    "desc": "UNDERDOGS TrueGear Suit Mod",
+    "website": "https://github.com/vr-commiter/UNDERDOGS",
+    "version_list": [],
+    "mods": [
+        {
+            "date_updated": "",
+            "download_link": "https://github.com/vr-commiter/UNDERDOGS/releases/download/v0.1.0-beta/steam_2441700.zip",
+            "md5_value": "53c33e6a5a2cb465b231e2a8c10bffcf",
+            "version": "v0.1.0-beta",
+            "status": "beta"
+        }
+    ]
+}

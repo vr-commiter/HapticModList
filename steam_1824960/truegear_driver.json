@@ -1,0 +1,17 @@
+{
+    "author_name": "vr-commiter",
+    "game_name": "Propagation: Paradise Hotel",
+    "appid": "steam_1824960",
+    "desc": "Propagation: Paradise Hotel TrueGear Suit Mod",
+    "website": "https://github.com/vr-commiter/Propagation-Paradise-Hotel",
+    "version_list": [],
+    "mods": [
+        {
+            "date_updated": "",
+            "download_link": "https://github.com/vr-commiter/Propagation-Paradise-Hotel/releases/download/v0.1.0-beta/steam_1824960.zip",
+            "md5_value": "a07785e297cdab74591b4a9ebde22084",
+            "version": "v0.1.0-beta",
+            "status": "beta"
+        }
+    ]
+}

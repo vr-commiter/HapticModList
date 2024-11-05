@@ -1,0 +1,17 @@
+{
+    "author_name": "vr-commiter",
+    "game_name": "Labyrinthine",
+    "appid": "steam_1302240",
+    "desc": "Labyrinthine TrueGear Suit Mod",
+    "website": "https://github.com/vr-commiter/Labyrinthine",
+    "version_list": [],
+    "mods": [
+        {
+            "date_updated": "",
+            "download_link": "https://github.com/vr-commiter/Labyrinthine/releases/download/v0.1.0-beta/steam_1302240.zip",
+            "md5_value": "50ebca0e863303acaaef820ba12319bd",
+            "version": "v0.1.0-beta",
+            "status": "beta"
+        }
+    ]
+}

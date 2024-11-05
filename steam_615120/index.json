@@ -1,0 +1,11 @@
+{
+    "game_name": "COMPOUND",
+    "appid": "steam_615120",
+    "mods": [
+        {
+            "author_name": "vr-commiter",
+            "json": "truegear_driver.json",
+            "title": "COMPOUND TrueGear Suit Mod"
+        }
+    ]
+}

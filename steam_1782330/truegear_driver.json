@@ -1,0 +1,17 @@
+{
+    "author_name": "vr-commiter",
+    "game_name": "Green Hell VR",
+    "appid": "steam_1782330",
+    "desc": "Green Hell VR TrueGear Suit Mod",
+    "website": "https://github.com/vr-commiter/Green-Hell-VR",
+    "version_list": [],
+    "mods": [
+        {
+            "date_updated": "",
+            "download_link": "https://github.com/vr-commiter/Green-Hell-VR/releases/download/v0.1.0-beta/steam_1782330.zip",
+            "md5_value": "82bd12009c436fe29174ba956ea3e1ff",
+            "version": "v0.1.0-beta",
+            "status": "beta"
+        }
+    ]
+}

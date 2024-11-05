@@ -1,0 +1,17 @@
+{
+    "author_name": "vr-commiter",
+    "game_name": "The Forest",
+    "appid": "steam_242760",
+    "desc": "The Forest TrueGear Suit Mod",
+    "website": "https://github.com/vr-commiter/TheForest",
+    "version_list": [],
+    "mods": [
+        {
+            "date_updated": "",
+            "download_link": "https://github.com/vr-commiter/TheForest/releases/download/v0.1.0-beta/steam_242760.zip",
+            "md5_value": "f1f1ad5e0cdf77eef105195249b2ce4d",
+            "version": "v0.1.0-beta",
+            "status": "beta"
+        }
+    ]
+}

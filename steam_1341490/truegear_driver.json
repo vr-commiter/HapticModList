@@ -1,0 +1,17 @@
+{
+    "author_name": "vr-commiter",
+    "game_name": "Hellsweeper VR",
+    "appid": "steam_1341490",
+    "desc": "Hellsweeper VR TrueGear Suit Mod",
+    "website": "https://github.com/vr-commiter/Hellsweeper-VR",
+    "version_list": [],
+    "mods": [
+        {
+            "date_updated": "",
+            "download_link": "https://github.com/vr-commiter/Hellsweeper-VR/releases/download/v0.1.0-beta/steam_1341490.zip",
+            "md5_value": "4cd201650aeea07fa64d1da1bef7c3be",
+            "version": "v0.1.0-beta",
+            "status": "beta"
+        }
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "game_name": "The Walking Dead: Saints & Sinners",
+    "appid": "steam_916840",
+    "mods": [
+        {
+            "author_name": "vr-commiter",
+            "json": "truegear_driver.json",
+            "title": "The Walking Dead: Saints & Sinners TrueGear Suit Mod"
+        }
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "game_name": "Vampire: The Masquerade - Justice",
+    "appid": "steam_2431700",
+    "mods": [
+        {
+            "author_name": "vr-commiter",
+            "json": "truegear_driver.json",
+            "title": "Vampire: The Masquerade - Justice TrueGear Suit Mod"
+        }
+    ]
+}

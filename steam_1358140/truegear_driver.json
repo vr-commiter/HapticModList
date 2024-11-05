@@ -1,0 +1,17 @@
+{
+    "author_name": "vr-commiter",
+    "game_name": "Cooking Simulator VR",
+    "appid": "steam_1358140",
+    "desc": "Cooking Simulator VR TrueGear Suit Mod",
+    "website": "https://github.com/vr-commiter/Cooking-Simulator-VR",
+    "version_list": [],
+    "mods": [
+        {
+            "date_updated": "",
+            "download_link": "https://github.com/vr-commiter/Cooking-Simulator-VR/releases/download/v0.1.0-beta/steam_1358140.zip",
+            "md5_value": "74723acf8fd3ed06fc8821ed5ca27add",
+            "version": "v0.1.0-beta",
+            "status": "beta"
+        }
+    ]
+}

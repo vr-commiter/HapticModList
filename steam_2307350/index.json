@@ -1,0 +1,11 @@
+{
+    "game_name": "Into the Radius 2",
+    "appid": "steam_2307350",
+    "mods": [
+        {
+            "author_name": "vr-commiter",
+            "json": "truegear_driver.json",
+            "title": "Into the Radius 2 TrueGear Suit Mod"
+        }
+    ]
+}

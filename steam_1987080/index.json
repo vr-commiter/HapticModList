@@ -1,0 +1,11 @@
+{
+    "game_name": "Inside the Backrooms",
+    "appid": "steam_1987080",
+    "mods": [
+        {
+            "author_name": "vr-commiter",
+            "json": "truegear_driver.json",
+            "title": "Inside the Backrooms TrueGear Suit Mod"
+        }
+    ]
+}

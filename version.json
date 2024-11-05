@@ -73,5 +73,150 @@
         "appid": "steam_438100",
         "game_name": "VRChat",
         "platform": "steam"
+    },
+    {
+        "appid": "steam_1012790",
+        "platform": "steam",
+        "game_name": "Into the Radius VR"
+    },
+    {
+        "appid": "steam_1039880",
+        "platform": "steam",
+        "game_name": "Hellsplit: Arena"
+    },
+    {
+        "appid": "steam_1302240",
+        "platform": "steam",
+        "game_name": "Labyrinthine"
+    },
+    {
+        "appid": "steam_1341490",
+        "platform": "steam",
+        "game_name": "Hellsweeper VR"
+    },
+    {
+        "appid": "steam_1358140",
+        "platform": "steam",
+        "game_name": "Cooking Simulator VR"
+    },
+    {
+        "appid": "steam_1514840",
+        "platform": "steam",
+        "game_name": "All-In-One Sports VR"
+    },
+    {
+        "appid": "steam_1592190",
+        "platform": "steam",
+        "game_name": "BONELAB"
+    },
+    {
+        "appid": "steam_1782330",
+        "platform": "steam",
+        "game_name": "Green Hell VR"
+    },
+    {
+        "appid": "steam_1824960",
+        "platform": "steam",
+        "game_name": "Propagation: Paradise Hotel"
+    },
+    {
+        "appid": "steam_1987080",
+        "platform": "steam",
+        "game_name": "Inside the Backrooms"
+    },
+    {
+        "appid": "steam_2307350",
+        "platform": "steam",
+        "game_name": "Into the Radius 2"
+    },
+    {
+        "appid": "steam_2358720",
+        "platform": "steam",
+        "game_name": "Black Myth: Wukong"
+    },
+    {
+        "appid": "steam_242760",
+        "platform": "steam",
+        "game_name": "The Forest"
+    },
+    {
+        "appid": "steam_2431700",
+        "platform": "steam",
+        "game_name": "Vampire: The Masquerade - Justice"
+    },
+    {
+        "appid": "steam_2441700",
+        "platform": "steam",
+        "game_name": "UNDERDOGS"
+    },
+    {
+        "appid": "steam_2492600",
+        "platform": "steam",
+        "game_name": "Rampage Agents"
+    },
+    {
+        "appid": "steam_264710",
+        "platform": "steam",
+        "game_name": "Subnautica"
+    },
+    {
+        "appid": "steam_2897700",
+        "platform": "steam",
+        "game_name": "Arizona Sunshine® Remake"
+    },
+    {
+        "appid": "steam_342180",
+        "platform": "steam",
+        "game_name": "Arizona Sunshine"
+    },
+    {
+        "appid": "steam_418370",
+        "platform": "steam",
+        "game_name": "Resident Evil 7 Biohazard"
+    },
+    {
+        "appid": "steam_450390",
+        "platform": "steam",
+        "game_name": "The Lab"
+    },
+    {
+        "appid": "steam_450540",
+        "platform": "steam",
+        "game_name": "Hot Dogs, Horseshoes & Hand Grenades"
+    },
+    {
+        "appid": "steam_578620",
+        "platform": "steam",
+        "game_name": "GORN"
+    },
+    {
+        "appid": "steam_615120",
+        "platform": "steam",
+        "game_name": "COMPOUND"
+    },
+    {
+        "appid": "steam_667970",
+        "platform": "steam",
+        "game_name": "VTOL VR"
+    },
+    {
+        "appid": "steam_801550",
+        "platform": "steam",
+        "game_name": "VAIL"
+    },
+    {
+        "appid": "steam_823500",
+        "platform": "steam",
+        "game_name": "BONEWORKS"
+    },
+    {
+        "appid": "steam_916840",
+        "platform": "steam",
+        "game_name": "The Walking Dead: Saints & Sinners"
+    },
+    {
+        "appid": "steam_963930",
+        "platform": "steam",
+        "game_name": "Contractors VR"
     }
 ]

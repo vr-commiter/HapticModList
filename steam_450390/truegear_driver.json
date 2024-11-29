@@ -4,8 +4,7 @@
     "appid": "steam_450390",
     "desc": "The Lab TrueGear Suit Mod",
     "website": "https://github.com/vr-commiter/The-Lab",
-    "version_list": [],
-    "mods": [
+    "version_list": [
         {
             "date_updated": "",
             "download_link": "https://github.com/vr-commiter/The-Lab/releases/download/v0.1.0-beta/steam_450390.zip",
@@ -13,5 +12,6 @@
             "version": "v0.1.0-beta",
             "status": "beta"
         }
-    ]
+    ],
+    "mods": []
 }

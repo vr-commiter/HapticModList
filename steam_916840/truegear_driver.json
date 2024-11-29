@@ -4,8 +4,7 @@
     "appid": "steam_916840",
     "desc": "The Walking Dead: Saints & Sinners TrueGear Suit Mod",
     "website": "https://github.com/vr-commiter/The-Walking-Dead-Saints-Sinners",
-    "version_list": [],
-    "mods": [
+    "version_list": [
         {
             "date_updated": "",
             "download_link": "https://github.com/vr-commiter/The-Walking-Dead-Saints-Sinners/releases/download/v0.1.0-beta/steam_916840.zip",
@@ -13,5 +12,6 @@
             "version": "v0.1.0-beta",
             "status": "beta"
         }
-    ]
+    ],
+    "mods": []
 }

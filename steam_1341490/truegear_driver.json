@@ -4,8 +4,7 @@
     "appid": "steam_1341490",
     "desc": "Hellsweeper VR TrueGear Suit Mod",
     "website": "https://github.com/vr-commiter/Hellsweeper-VR",
-    "version_list": [],
-    "mods": [
+    "version_list": [
         {
             "date_updated": "",
             "download_link": "https://github.com/vr-commiter/Hellsweeper-VR/releases/download/v0.1.0-beta/steam_1341490.zip",
@@ -13,5 +12,6 @@
             "version": "v0.1.0-beta",
             "status": "beta"
         }
-    ]
+    ],
+    "mods": []
 }

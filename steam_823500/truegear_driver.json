@@ -4,8 +4,7 @@
     "appid": "steam_823500",
     "desc": "BONEWORKS TrueGear Suit Mod",
     "website": "https://github.com/vr-commiter/BONEWORKS",
-    "version_list": [],
-    "mods": [
+    "version_list": [
         {
             "date_updated": "",
             "download_link": "https://github.com/vr-commiter/BONEWORKS/releases/download/v0.1.0-beta/steam_823500.zip",
@@ -13,5 +12,6 @@
             "version": "v0.1.0-beta",
             "status": "beta"
         }
-    ]
+    ],
+    "mods": []
 }

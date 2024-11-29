@@ -4,8 +4,7 @@
     "appid": "steam_264710",
     "desc": "Subnautica TrueGear Suit Mod",
     "website": "https://github.com/vr-commiter/Subnautica",
-    "version_list": [],
-    "mods": [
+    "version_list": [
         {
             "date_updated": "",
             "download_link": "https://github.com/vr-commiter/Subnautica/releases/download/v0.1.0-beta/steam_264710.zip",
@@ -13,5 +12,6 @@
             "version": "v0.1.0-beta",
             "status": "beta"
         }
-    ]
+    ],
+    "mods": []
 }

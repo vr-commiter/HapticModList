@@ -218,5 +218,20 @@
         "appid": "steam_963930",
         "platform": "steam",
         "game_name": "Contractors VR"
+    },
+    {
+        "appid": "steam_448280",
+        "platform": "steam",
+        "game_name": "Job Simulator"
+    },
+    {
+        "appid": "steam_805550",
+        "platform": "steam",
+        "game_name": "Assetto Corsa Competizione"
+    },
+    {
+        "appid": "steam_722180",
+        "platform": "steam",
+        "game_name": "SURV1V3"
     }
 ]

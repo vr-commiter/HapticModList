@@ -1,0 +1,11 @@
+{
+    "game_name": "Fallout 4 VR",
+    "appid": "steam_611660",
+    "mods": [
+        {
+            "author_name": "vr-commiter",
+            "file": "truegear_driver.json",
+            "title": "Fallout 4 VR TrueGear Suit Mod"
+        }
+    ]
+}

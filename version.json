@@ -233,5 +233,20 @@
         "appid": "steam_722180",
         "platform": "steam",
         "game_name": "SURV1V3"
+    },
+    {
+        "appid": "steam_611660",
+        "platform": "steam",
+        "game_name": "Fallout 4 VR"
+    },
+    {
+        "appid": "steam_611670",
+        "platform": "steam",
+        "game_name": "The Elder Scrolls V:Skyrim VR"
+    },
+    {
+        "appid": "steam_2899670",
+        "platform": "steam",
+        "game_name": "剑途"
     }
 ]

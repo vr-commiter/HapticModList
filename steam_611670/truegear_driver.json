@@ -1,0 +1,17 @@
+{
+    "author_name": "vr-commiter",
+    "game_name": "The Elder Scrolls V:Skyrim VR",
+    "appid": "steam_611660",
+    "desc": "The Elder Scrolls V:Skyrim VR Suit Mod",
+    "website": "https://github.com/vr-commiter/SkyrimVR",
+    "version_list": [
+        {
+            "date_updated": "",
+            "download_link": "https://github.com/vr-commiter/SkyrimVR/releases/download/v0.1.0-beta/5614a257f03ff67c394b8f94c060a68b.zip",
+            "md5_value": "5614a257f03ff67c394b8f94c060a68b",
+            "version": "v0.1.0-beta",
+            "status": "beta"
+        }
+    ],
+    "mods": []
+}

@@ -1,0 +1,17 @@
+{
+    "author_name": "vr-commiter",
+    "game_name": "Fallout 4 VR",
+    "appid": "steam_611660",
+    "desc": "Fallout 4 VR Suit Mod",
+    "website": "https://github.com/vr-commiter/F4VR",
+    "version_list": [
+        {
+            "date_updated": "",
+            "download_link": "https://github.com/vr-commiter/F4VR/releases/download/v0.1.0-beta/252a3c076ff75ddc7a87f7559a99b3e6.zip",
+            "md5_value": "252a3c076ff75ddc7a87f7559a99b3e6",
+            "version": "v0.1.0-beta",
+            "status": "beta"
+        }
+    ],
+    "mods": []
+}

@@ -1,0 +1,17 @@
+{
+    "author_name": "vr-commiter",
+    "game_name": "剑途",
+    "appid": "steam_2899670",
+    "desc": "剑途 Suit Mod",
+    "website": "https://github.com/vr-commiter/SwordTrip",
+    "version_list": [
+        {
+            "date_updated": "",
+            "download_link": "https://github.com/vr-commiter/SwordTrip/releases/download/v0.1.0-beta/8c5decdf39a07592763d565ecaad569d.zip",
+            "md5_value": "8c5decdf39a07592763d565ecaad569d",
+            "version": "v0.1.0-beta",
+            "status": "beta"
+        }
+    ],
+    "mods": []
+}

@@ -3,12 +3,12 @@
     "game_name": "Rampage Agents",
     "appid": "steam_2492600",
     "desc": "Rampage Agents TrueGear Suit Mod",
-    "website": "https://github.com/vr-commiter/PistolWhip",
+    "website": "https://github.com/vr-commiter/Rampage-Agents",
     "version_list": [
         {
             "date_updated": "",
-            "download_link": "https://github.com/vr-commiter/PistolWhip/releases/download/v0.1.0-beta/steam_2492600.zip",
-            "md5_value": "d3d473935600791f638ca2644091560f",
+            "download_link": "https://github.com/vr-commiter/Rampage-Agents/releases/download/v0.1.0-beta/d00bad34974bf8dbe3251eaf9044944a.zip",
+            "md5_value": "d00bad34974bf8dbe3251eaf9044944a",
             "version": "v0.1.0-beta",
             "status": "beta"
         }

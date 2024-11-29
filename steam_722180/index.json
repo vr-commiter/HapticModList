@@ -1,0 +1,11 @@
+{
+    "game_name": "SURV1V3",
+    "appid": "steam_722180",
+    "mods": [
+        {
+            "author_name": "vr-commiter",
+            "file": "truegear_driver.json",
+            "title": "SURV1V3 TrueGear Suit Mod"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "author_name": "vr-commiter",
+    "game_name": "SURV1V3",
+    "appid": "steam_805550",
+    "desc": "SURV1V3 Suit Mod",
+    "website": "https://github.com/vr-commiter/SURV1V3",
+    "version_list": [
+        {
+            "date_updated": "",
+            "download_link": "https://github.com/vr-commiter/SURV1V3/releases/download/v0.1.0-beta/dc9225a884088b0f40fddb2d2cf9b54b.zip",
+            "md5_value": "dc9225a884088b0f40fddb2d2cf9b54b",
+            "version": "v0.1.0-beta",
+            "status": "beta"
+        }
+    ],
+    "mods": []
+}

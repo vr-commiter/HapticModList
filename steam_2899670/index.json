@@ -1,0 +1,11 @@
+{
+    "game_name": "剑途",
+    "appid": "steam_2899670",
+    "mods": [
+        {
+            "author_name": "vr-commiter",
+            "file": "truegear_driver.json",
+            "title": "剑途 TrueGear Suit Mod"
+        }
+    ]
+}

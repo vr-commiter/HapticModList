@@ -1,0 +1,17 @@
+{
+    "author_name": "vr-commiter",
+    "game_name": "Assetto Corsa Competizione",
+    "appid": "steam_805550",
+    "desc": "Assetto Corsa Competizione Suit Mod",
+    "website": "https://github.com/vr-commiter/AssettoCorsaCompetizione",
+    "version_list": [
+        {
+            "date_updated": "",
+            "download_link": "https://github.com/vr-commiter/AssettoCorsaCompetizione/releases/download/v0.1.0-beta/ce6d811b944c48891f3292f30bf8fb1c.zip",
+            "md5_value": "ce6d811b944c48891f3292f30bf8fb1c",
+            "version": "v0.1.0-beta",
+            "status": "beta"
+        }
+    ],
+    "mods": []
+}

@@ -1,0 +1,11 @@
+{
+    "game_name": "Job Simulator",
+    "appid": "steam_448280",
+    "mods": [
+        {
+            "author_name": "vr-commiter",
+            "file": "truegear_driver.json",
+            "title": "Job Simulator TrueGear Suit Mod"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "author_name": "vr-commiter",
+    "game_name": "Job Simulator",
+    "appid": "steam_448280",
+    "desc": "Job Simulator Suit Mod",
+    "website": "https://github.com/vr-commiter/JobSimultor",
+    "version_list": [
+        {
+            "date_updated": "",
+            "download_link": "https://github.com/vr-commiter/JobSimultor/releases/download/v0.1.0-beta/140dc6deef8778fa64c1044a4513c848.zip",
+            "md5_value": "140dc6deef8778fa64c1044a4513c848",
+            "version": "v0.1.0-beta",
+            "status": "beta"
+        }
+    ],
+    "mods": []
+}

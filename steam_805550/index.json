@@ -1,0 +1,11 @@
+{
+    "game_name": "Assetto Corsa Competizione",
+    "appid": "steam_805550",
+    "mods": [
+        {
+            "author_name": "vr-commiter",
+            "file": "truegear_driver.json",
+            "title": "Assetto Corsa Competizione TrueGear Suit Mod"
+        }
+    ]
+}

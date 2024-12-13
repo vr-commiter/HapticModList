@@ -248,5 +248,10 @@
         "appid": "steam_2899670",
         "platform": "steam",
         "game_name": "剑途"
+    },
+    {
+        "appid": "steam_2050650",
+        "platform": "steam",
+        "game_name": "Resident Evil4"
     }
 ]

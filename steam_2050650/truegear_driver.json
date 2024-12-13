@@ -1,0 +1,17 @@
+{
+    "author_name": "vr-commiter",
+    "game_name": "Resident Evil 4",
+    "appid": "steam_2050650",
+    "desc": "Resident Evil 4 TrueGear Suit Mod",
+    "website": "https://github.com/vr-commiter/ResidentEvil4",
+    "version_list": [
+        {
+            "date_updated": "",
+            "download_link": "https://github.com/vr-commiter/ResidentEvil4/releases/download/v0.1.0-beta/f459c18c46288f5dd0abaf3126e1a0bf.zip",
+            "md5_value": "f459c18c46288f5dd0abaf3126e1a0bf",
+            "version": "v0.1.0-beta",
+            "status": "beta"
+        }
+    ],
+    "mods": []
+}

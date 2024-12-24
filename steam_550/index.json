@@ -1,0 +1,11 @@
+{
+    "game_name": "Left 4 Dead 2",
+    "appid": "steam_242760",
+    "mods": [
+        {
+            "author_name": "vr-commiter",
+            "file": "truegear_driver.json",
+            "title": "Left 4 Dead 2 TrueGear Suit Mod"
+        }
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "game_name": "DCS World Steam Edition",
+    "appid": "steam_223750",
+    "mods": [
+        {
+            "author_name": "vr-commiter",
+            "file": "truegear_driver.json",
+            "title": "DCS World Steam Edition TrueGear Suit Mod"
+        }
+    ]
+}

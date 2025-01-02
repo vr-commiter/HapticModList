@@ -1,0 +1,18 @@
+{
+    "author_name": "vr-commiter",
+    "game_name": "DCS World Steam Edition",
+    "appid": "steam_223750",
+    "desc": "DCS World Steam Edition TrueGear Suit Mod",
+    "website": "https://github.com/vr-commiter/DCSWorld",
+    "readme_link": "https://github.com/vr-commiter/DCSWorld/blob/master/README.md",
+    "version_list": [
+        {
+            "date_updated": "",
+            "download_link": "https://github.com/vr-commiter/DCSWorld/releases/download/v0.1.0-beta/64ec5dc8e4d0a847c930d314712aad3e.zip",
+            "md5_value": "64ec5dc8e4d0a847c930d314712aad3e",
+            "version": "v0.1.0-beta",
+            "status": "beta"
+        }
+    ],
+    "mods": []
+}

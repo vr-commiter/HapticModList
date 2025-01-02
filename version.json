@@ -253,5 +253,15 @@
         "appid": "steam_2050650",
         "platform": "steam",
         "game_name": "Resident Evil4"
+    },
+    {
+        "appid": "steam_550",
+        "platform": "steam",
+        "game_name": "Left 4 Dead 2"
+    },
+    {
+        "appid": "steam_223750",
+        "platform": "steam",
+        "game_name": "DCS World Steam Edition"
     }
 ]

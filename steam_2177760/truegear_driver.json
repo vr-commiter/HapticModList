@@ -1,0 +1,16 @@
+{
+    "author_name": "vr-commiter",
+    "game_name": "Half-Life 2:VR Mod - Episode Two",
+    "appid": "steam_2177760",
+    "desc": "Half-Life 2:VR Mod - Episode Two TrueGear Suit Mod",
+    "website": "https://github.com/vr-commiter/HL2VREpisodeTwo",
+    "version_list": [
+        {
+            "date_updated": "",
+            "download_link": "https://github.com/vr-commiter/HL2VREpisodeTwo/releases/download/v0.1.0-beta/f16e637ba9ad8adf6f6c9d2d0e4c5d02.zip",
+            "md5_value": "f16e637ba9ad8adf6f6c9d2d0e4c5d02",
+            "version": "v0.1.0-beta",
+            "status": "beta"
+        }
+    ]
+}

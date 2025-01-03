@@ -263,5 +263,15 @@
         "appid": "steam_223750",
         "platform": "steam",
         "game_name": "DCS World Steam Edition"
+    },
+    {
+        "appid": "steam_2177750",
+        "platform": "steam",
+        "game_name": "Half-Life 2:VR Mod - Episode One"
+    },
+    {
+        "appid": "steam_2177760",
+        "platform": "steam",
+        "game_name": "Half-Life 2:VR Mod - Episode Two"
     }
 ]

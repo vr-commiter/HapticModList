@@ -1,0 +1,11 @@
+{
+    "game_name": "Skydance's BEHEMOTH",
+    "appid": "steam_1707990",
+    "mods": [
+        {
+            "author_name": "vr-commiter",
+            "file": "truegear_driver.json",
+            "title": "Skydance's BEHEMOTH TrueGear Suit Mod"
+        }
+    ]
+}

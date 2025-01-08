@@ -273,5 +273,10 @@
         "appid": "steam_2177760",
         "platform": "steam",
         "game_name": "Half-Life 2:VR Mod - Episode Two"
+    },
+    {
+        "appid": "steam_1707990",
+        "platform": "steam",
+        "game_name": "Skydance's BEHEMOTH"
     }
 ]

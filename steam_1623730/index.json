@@ -1,0 +1,11 @@
+{
+    "game_name": "PalWorld",
+    "appid": "steam_1623730",
+    "mods": [
+        {
+            "author_name": "vr-commiter",
+            "file": "truegear_driver.json",
+            "title": "PalWorld TrueGear Suit Driver"
+        }
+    ]
+}

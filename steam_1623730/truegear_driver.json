@@ -1,0 +1,17 @@
+{
+    "appid": "steam_1623730",
+    "game_name": "PalWorld",
+    "author_name": "vr-commiter",
+    "desc": "PalWorld TrueGear Suit Driver",
+    "website": "https://github.com/vr-commiter/PalWorld",
+    "readme_link": "https://github.com/vr-commiter/PalWorld/blob/master/README.md",
+    "version_list": [
+        {
+            "date_updated": "",
+            "download_link": "https://github.com/vr-commiter/PalWorld/releases/download/v0.1.0-beta/5fba51c68b09a9a081bd9f4d85bc4d9c.zip",
+            "md5_value": "5fba51c68b09a9a081bd9f4d85bc4d9c",
+            "version": "v0.1.0-beta",
+            "status": "beta"
+        }
+    ]
+}

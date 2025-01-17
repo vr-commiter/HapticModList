@@ -278,5 +278,10 @@
         "appid": "steam_1707990",
         "platform": "steam",
         "game_name": "Skydance's BEHEMOTH"
+    },
+    {
+        "appid": "steam_1623730",
+        "platform": "steam",
+        "game_name": "PalWorld"
     }
 ]

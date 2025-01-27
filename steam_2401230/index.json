@@ -1,0 +1,11 @@
+{
+    "game_name": "Clone Drone in the Hyperdome",
+    "appid": "steam_2401230",
+    "mods": [
+        {
+            "author_name": "vr-commiter",
+            "file": "truegear_driver.json",
+            "title": "Clone Drone in the Hyperdome TrueGear Suit Mod"
+        }
+    ]
+}

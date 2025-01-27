@@ -1,0 +1,17 @@
+{
+    "appid": "steam_1066890",
+    "game_name": "Automobilista 2",
+    "author_name": "vr-commiter",
+    "desc": "Automobilista 2 TrueGear Suit Driver",
+    "website": "https://github.com/vr-commiter/Automobilista2",
+    "readme_link": "https://github.com/vr-commiter/Automobilista2/blob/master/README.md",
+    "version_list": [
+        {
+            "date_updated": "",
+            "download_link": "https://github.com/vr-commiter/Automobilista2/releases/download/v0.1.0-beta/34f0e5667d85a5c21d0d03dcd08fb712.zip",
+            "md5_value": "34f0e5667d85a5c21d0d03dcd08fb712",
+            "version": "v0.1.0-beta",
+            "status": "beta"
+        }
+    ]
+}

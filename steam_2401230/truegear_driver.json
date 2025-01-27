@@ -1,0 +1,17 @@
+{
+    "author_name": "vr-commiter",
+    "game_name": "Clone Drone in the Hyperdome",
+    "appid": "steam_2401230",
+    "desc": "Clone Drone in the Hyperdome TrueGear Suit Mod",
+    "website": "https://github.com/vr-commiter/CloneDroneInTheHyperdome",
+    "version_list": [],
+    "mods": [
+        {
+            "date_updated": "",
+            "download_link": "https://github.com/vr-commiter/CloneDroneInTheHyperdome/releases/download/v0.1.0-beta/50161e130cacde39e4e28388459c1e42.zip",
+            "md5_value": "50161e130cacde39e4e28388459c1e42",
+            "version": "v0.1.0-beta",
+            "status": "beta"
+        }
+    ]
+}

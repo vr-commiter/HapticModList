@@ -1,0 +1,11 @@
+{
+    "game_name": "Automobilista 2",
+    "appid": "steam_1066890",
+    "mods": [
+        {
+            "author_name": "vr-commiter",
+            "file": "truegear_driver.json",
+            "title": "Automobilista 2 TrueGear Suit Driver"
+        }
+    ]
+}

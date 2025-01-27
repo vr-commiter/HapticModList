@@ -283,5 +283,15 @@
         "appid": "steam_1623730",
         "platform": "steam",
         "game_name": "PalWorld"
+    },
+    {
+        "appid": "steam_1066890",
+        "platform": "steam",
+        "game_name": "Automobilista 2"
+    },
+    {
+        "appid": "steam_2401230",
+        "platform": "steam",
+        "game_name": "Clone Drone in the Hyperdome"
     }
 ]

@@ -1,0 +1,17 @@
+{
+    "appid": "steam_548430",
+    "game_name": "Deep Rock Galactic",
+    "author_name": "vr-commiter",
+    "desc": "Deep Rock Galactic TrueGear Suit Driver",
+    "website": "https://github.com/vr-commiter/DeepRockGalactic",
+    "readme_link": "https://github.com/vr-commiter/DeepRockGalactic/blob/master/README.md",
+    "version_list": [
+        {
+            "date_updated": "",
+            "download_link": "https://github.com/vr-commiter/DeepRockGalactic/releases/download/v0.1.0-beta/c23f032bfc39acc073ce60e3079ba987.zip",
+            "md5_value": "c23f032bfc39acc073ce60e3079ba987",
+            "version": "v0.1.0-beta",
+            "status": "beta"
+        }
+    ]
+}

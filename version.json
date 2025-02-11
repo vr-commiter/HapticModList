@@ -293,5 +293,10 @@
         "appid": "steam_2401230",
         "platform": "steam",
         "game_name": "Clone Drone in the Hyperdome"
+    },
+    {
+        "appid": "steam_548430",
+        "platform": "steam",
+        "game_name": "Deep Rock Galactic"
     }
 ]

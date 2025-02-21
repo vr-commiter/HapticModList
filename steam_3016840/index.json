@@ -1,0 +1,11 @@
+{
+    "game_name": "I Am Cat",
+    "appid": "steam_3016840",
+    "mods": [
+        {
+            "author_name": "vr-commiter",
+            "file": "truegear_driver.json",
+            "title": "I Am Cat TrueGear Suit Mod"
+        }
+    ]
+}

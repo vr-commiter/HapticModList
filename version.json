@@ -298,5 +298,10 @@
         "appid": "steam_548430",
         "platform": "steam",
         "game_name": "Deep Rock Galactic"
+    },
+    {
+        "appid": "steam_3016840",
+        "platform": "steam",
+        "game_name": "I Am Cat"
     }
 ]

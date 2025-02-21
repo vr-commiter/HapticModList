@@ -1,0 +1,17 @@
+{
+    "author_name": "vr-commiter",
+    "game_name": "I Am Cat",
+    "appid": "steam_3016840",
+    "desc": "I Am Cat TrueGear Suit Mod",
+    "website": "https://github.com/vr-commiter/IAmCat",
+    "version_list": [
+        {
+            "date_updated": "",
+            "download_link": "https://github.com/vr-commiter/IAmCat/releases/download/v0.1.0-beta/d515373d846dc820b43fc9147937054e.zip",
+            "md5_value": "d515373d846dc820b43fc9147937054e",
+            "version": "v0.1.0-beta",
+            "status": "beta"
+        }
+    ],
+    "mods": []
+}

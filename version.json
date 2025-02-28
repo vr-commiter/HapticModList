@@ -303,5 +303,15 @@
         "appid": "steam_3016840",
         "platform": "steam",
         "game_name": "I Am Cat"
+    },
+    {
+        "appid": "steam_1849900",
+        "platform": "steam",
+        "game_name": "Among Us VR"
+    },
+    {
+        "appid": "steam_2777220",
+        "platform": "steam",
+        "game_name": "Human Fall Flat VR"
     }
 ]

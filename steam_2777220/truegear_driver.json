@@ -1,0 +1,17 @@
+{
+    "author_name": "vr-commiter",
+    "game_name": "Human Fall Flat VR",
+    "appid": "steam_2777220",
+    "desc": "Human Fall Flat VR TrueGear Suit Mod",
+    "website": "https://github.com/vr-commiter/HumanFallFlatVR",
+    "version_list": [
+        {
+            "date_updated": "",
+            "download_link": "https://github.com/vr-commiter/HumanFallFlatVR/releases/download/v0.1.0-beta/ab92ac63002eaf01fc850bfc65cf4160.zip",
+            "md5_value": "ab92ac63002eaf01fc850bfc65cf4160",
+            "version": "v0.1.0-beta",
+            "status": "beta"
+        }
+    ],
+    "mods": []
+}

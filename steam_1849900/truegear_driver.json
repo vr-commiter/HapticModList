@@ -1,0 +1,17 @@
+{
+    "author_name": "vr-commiter",
+    "game_name": "Among Us VR",
+    "appid": "steam_1849900",
+    "desc": "Among Us VR TrueGear Suit Mod",
+    "website": "https://github.com/vr-commiter/AmongUsVR",
+    "version_list": [
+        {
+            "date_updated": "",
+            "download_link": "https://github.com/vr-commiter/AmongUsVR/releases/download/v0.1.0-beta/ed30c21f035103c371f2b17d0a11a012.zip",
+            "md5_value": "ed30c21f035103c371f2b17d0a11a012",
+            "version": "v0.1.0-beta",
+            "status": "beta"
+        }
+    ],
+    "mods": []
+}

@@ -1,0 +1,11 @@
+{
+    "game_name": "Human Fall Flat VR",
+    "appid": "steam_2777220",
+    "mods": [
+        {
+            "author_name": "vr-commiter",
+            "file": "truegear_driver.json",
+            "title": "Human Fall Flat VR TrueGear Suit Mod"
+        }
+    ]
+}

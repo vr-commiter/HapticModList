@@ -1,0 +1,17 @@
+{
+    "author_name": "vr-commiter",
+    "game_name": "Paint the Town Red",
+    "appid": "steam_337320",
+    "desc": "Paint the Town Red TrueGear Suit Mod",
+    "website": "https://github.com/vr-commiter/PaintTheTownRed",
+    "version_list": [
+        {
+            "date_updated": "",
+            "download_link": "https://github.com/vr-commiter/PaintTheTownRed/releases/download/v0.1.0-beta/41d9094f336bd96263ee8a6c891ee024.zip",
+            "md5_value": "41d9094f336bd96263ee8a6c891ee024",
+            "version": "v0.1.0-beta",
+            "status": "beta"
+        }
+    ],
+    "mods": []
+}

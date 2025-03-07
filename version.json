@@ -313,5 +313,10 @@
         "appid": "steam_2777220",
         "platform": "steam",
         "game_name": "Human Fall Flat VR"
+    },
+    {
+        "appid": "steam_337320",
+        "platform": "steam",
+        "game_name": "Paint the Town Red"
     }
 ]

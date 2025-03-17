@@ -1,0 +1,17 @@
+{
+    "author_name": "vr-commiter",
+    "game_name": "The Last Clockwinder",
+    "appid": "steam_1755100",
+    "desc": "The Last Clockwinder TrueGear Suit Mod",
+    "website": "https://github.com/vr-commiter/TheLastClockwinder",
+    "version_list": [
+        {
+            "date_updated": "",
+            "download_link": "https://github.com/vr-commiter/TheLastClockwinder/releases/download/v0.1.0-beta/ee45706d1f500d18e9ac46961c64fb25.zip",
+            "md5_value": "ee45706d1f500d18e9ac46961c64fb25",
+            "version": "v0.1.0-beta",
+            "status": "beta"
+        }
+    ],
+    "mods": []
+}

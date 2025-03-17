@@ -1,0 +1,11 @@
+{
+    "game_name": "BARRAGE",
+    "appid": "steam_836080",
+    "mods": [
+        {
+            "author_name": "vr-commiter",
+            "file": "truegear_driver.json",
+            "title": "BARRAGE TrueGear Suit Mod"
+        }
+    ]
+}

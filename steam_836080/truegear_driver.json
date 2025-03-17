@@ -1,0 +1,17 @@
+{
+    "author_name": "vr-commiter",
+    "game_name": "BARRAGE",
+    "appid": "steam_836080",
+    "desc": "BARRAGE TrueGear Suit Mod",
+    "website": "https://github.com/vr-commiter/BARRAGE",
+    "version_list": [
+        {
+            "date_updated": "",
+            "download_link": "https://github.com/vr-commiter/BARRAGE/releases/download/v0.1.0-beta/3fa338ff3a089f26a90685f3a499d268.zip",
+            "md5_value": "3fa338ff3a089f26a90685f3a499d268",
+            "version": "v0.1.0-beta",
+            "status": "beta"
+        }
+    ],
+    "mods": []
+}

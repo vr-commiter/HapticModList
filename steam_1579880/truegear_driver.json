@@ -1,0 +1,17 @@
+{
+    "author_name": "vr-commiter",
+    "game_name": "The Light Brigade",
+    "appid": "steam_1755100",
+    "desc": "The Light Brigade TrueGear Suit Mod",
+    "website": "https://github.com/vr-commiter/TheLightBrigade",
+    "version_list": [
+        {
+            "date_updated": "",
+            "download_link": "https://github.com/vr-commiter/TheLightBrigade/releases/download/v0.1.0-beta/927a1b49f5ba8808811ddeeab8dcfeee.zip",
+            "md5_value": "927a1b49f5ba8808811ddeeab8dcfeee",
+            "version": "v0.1.0-beta",
+            "status": "beta"
+        }
+    ],
+    "mods": []
+}

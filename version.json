@@ -328,5 +328,10 @@
         "appid": "steam_836080",
         "platform": "steam",
         "game_name": "BARRAGE"
+    },
+    {
+        "appid": "steam_1579880",
+        "platform": "steam",
+        "game_name": "The Light Brigade"
     }
 ]

@@ -1,0 +1,11 @@
+{
+    "game_name": "The Light Brigade",
+    "appid": "steam_1579880",
+    "mods": [
+        {
+            "author_name": "vr-commiter",
+            "file": "truegear_driver.json",
+            "title": "The Light Brigade TrueGear Suit Mod"
+        }
+    ]
+}

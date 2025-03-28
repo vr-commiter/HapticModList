@@ -1,0 +1,11 @@
+{
+    "game_name": "DEVOUR",
+    "appid": "steam_1274570",
+    "mods": [
+        {
+            "author_name": "vr-commiter",
+            "file": "truegear_driver.json",
+            "title": "DEVOUR TrueGear Suit Mod"
+        }
+    ]
+}

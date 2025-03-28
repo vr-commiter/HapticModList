@@ -1,0 +1,17 @@
+{
+    "author_name": "vr-commiter",
+    "game_name": "Cosmic Trip",
+    "appid": "steam_427240",
+    "desc": "Cosmic Trip Suit Mod",
+    "website": "https://github.com/vr-commiter/CosmicTrip",
+    "version_list": [
+        {
+            "date_updated": "",
+            "download_link": "https://github.com/vr-commiter/CosmicTrip/releases/download/v0.1.0-beta/a84369c669adbb8d1a15deb7ce57b88f.zip",
+            "md5_value": "a84369c669adbb8d1a15deb7ce57b88f",
+            "version": "v0.1.0-beta",
+            "status": "beta"
+        }
+    ],
+    "mods": []
+}

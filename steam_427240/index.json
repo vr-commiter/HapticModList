@@ -1,0 +1,11 @@
+{
+    "game_name": "Cosmic Trip",
+    "appid": "steam_427240",
+    "mods": [
+        {
+            "author_name": "vr-commiter",
+            "file": "truegear_driver.json",
+            "title": "Cosmic Trip TrueGear Suit Mod"
+        }
+    ]
+}

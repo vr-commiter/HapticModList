@@ -333,5 +333,15 @@
         "appid": "steam_1579880",
         "platform": "steam",
         "game_name": "The Light Brigade"
+    },
+    {
+        "appid": "steam_427240",
+        "platform": "steam",
+        "game_name": "Cosmic Trip"
+    },
+    {
+        "appid": "steam_1274570",
+        "platform": "steam",
+        "game_name": "DEVOUR"
     }
 ]

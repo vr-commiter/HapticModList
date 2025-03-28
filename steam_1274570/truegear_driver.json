@@ -1,0 +1,17 @@
+{
+    "author_name": "vr-commiter",
+    "game_name": "DEVOUR",
+    "appid": "steam_1274570",
+    "desc": "DEVOUR Suit Mod",
+    "website": "https://github.com/vr-commiter/DEVOUR",
+    "version_list": [
+        {
+            "date_updated": "",
+            "download_link": "https://github.com/vr-commiter/DEVOUR/releases/download/v0.1.0-beta/21310cbcf982ae7f85144bb6d27f536e.zip",
+            "md5_value": "21310cbcf982ae7f85144bb6d27f536e",
+            "version": "v0.1.0-beta",
+            "status": "beta"
+        }
+    ],
+    "mods": []
+}

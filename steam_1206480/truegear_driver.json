@@ -1,0 +1,17 @@
+{
+    "author_name": "vr-commiter",
+    "game_name": "Swordsman VR",
+    "appid": "steam_1274570",
+    "desc": "Swordsman VR Suit Mod",
+    "website": "https://github.com/vr-commiter/SwordsmanVR",
+    "version_list": [
+        {
+            "date_updated": "",
+            "download_link": "https://github.com/vr-commiter/SwordsmanVR/releases/download/v0.1.0-beta/e5308611aa97ec13e767e5c23b533b05.zip",
+            "md5_value": "e5308611aa97ec13e767e5c23b533b05",
+            "version": "v0.1.0-beta",
+            "status": "beta"
+        }
+    ],
+    "mods": []
+}

@@ -343,5 +343,10 @@
         "appid": "steam_1274570",
         "platform": "steam",
         "game_name": "DEVOUR"
+    },
+    {
+        "appid": "steam_1206480",
+        "platform": "steam",
+        "game_name": "Swordsman VR"
     }
 ]

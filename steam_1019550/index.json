@@ -1,0 +1,11 @@
+{
+    "game_name": "Thief Simulator VR",
+    "appid": "steam_1019550",
+    "mods": [
+        {
+            "author_name": "vr-commiter",
+            "file": "truegear_driver.json",
+            "title": "Thief Simulator VR TrueGear Suit Mod"
+        }
+    ]
+}

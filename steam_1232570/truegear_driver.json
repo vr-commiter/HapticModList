@@ -1,0 +1,17 @@
+{
+    "author_name": "vr-commiter",
+    "game_name": "Paper Beast",
+    "appid": "steam_1232570",
+    "desc": "Paper Beast TrueGear Suit Mod",
+    "website": "https://github.com/vr-commiter/PaperBeast",
+    "version_list": [
+        {
+            "date_updated": "",
+            "download_link": "https://github.com/vr-commiter/PaperBeast/releases/download/v0.1.0-beta/4355807319ac3bb7b222ce2e5040b25d.zip",
+            "md5_value": "4355807319ac3bb7b222ce2e5040b25d",
+            "version": "v0.1.0-beta",
+            "status": "beta"
+        }
+    ],
+    "mods": []
+}

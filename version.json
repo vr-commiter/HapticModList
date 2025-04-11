@@ -348,5 +348,15 @@
         "appid": "steam_1206480",
         "platform": "steam",
         "game_name": "Swordsman VR"
+    },
+    {
+        "appid": "steam_1232570",
+        "platform": "steam",
+        "game_name": "Paper Beast"
+    },
+    {
+        "appid": "steam_1019550",
+        "platform": "steam",
+        "game_name": "Thief Simulator VR"
     }
 ]

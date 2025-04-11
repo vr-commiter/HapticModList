@@ -1,0 +1,17 @@
+{
+    "author_name": "vr-commiter",
+    "game_name": "Thief Simulator VR",
+    "appid": "steam_1019550",
+    "desc": "Thief Simulator VR TrueGear Suit Mod",
+    "website": "https://github.com/vr-commiter/ThiefSimulatorVR",
+    "version_list": [
+        {
+            "date_updated": "",
+            "download_link": "https://github.com/vr-commiter/ThiefSimulatorVR/releases/download/v0.1.0-beta/07d3134ffb9b211bed9fb3a1f4a9e3d5.zip",
+            "md5_value": "07d3134ffb9b211bed9fb3a1f4a9e3d5",
+            "version": "v0.1.0-beta",
+            "status": "beta"
+        }
+    ],
+    "mods": []
+}

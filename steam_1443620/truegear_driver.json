@@ -1,13 +1,13 @@
 {
     "author_name": "vr-commiter",
-    "game_name": "Pirates VR: Jolly Poger",
+    "game_name": "Pirates VR: Jolly Roger",
     "appid": "steam_1232570",
-    "desc": "Pirates VR: Jolly Poger TrueGear Suit Mod",
-    "website": "https://github.com/vr-commiter/PiratesVRJollyPoger",
+    "desc": "Pirates VR: Jolly Roger TrueGear Suit Mod",
+    "website": "https://github.com/vr-commiter/PiratesVRJollyRoger",
     "version_list": [
         {
             "date_updated": "",
-            "download_link": "https://github.com/vr-commiter/PiratesVRJollyPoger/releases/download/v0.1.0-beta/3cb9952aea599cbb1f8cc9e9a44b0d90.zip",
+            "download_link": "https://github.com/vr-commiter/PiratesVRJollyRoger/releases/download/v0.1.0-beta/3cb9952aea599cbb1f8cc9e9a44b0d90.zip",
             "md5_value": "3cb9952aea599cbb1f8cc9e9a44b0d90",
             "version": "v0.1.0-beta",
             "status": "beta"

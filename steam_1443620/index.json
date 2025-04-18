@@ -1,0 +1,11 @@
+{
+    "game_name": "Pirates VR: Jolly Poger",
+    "appid": "steam_1443620",
+    "mods": [
+        {
+            "author_name": "vr-commiter",
+            "file": "truegear_driver.json",
+            "title": "Pirates VR: Jolly Poger TrueGear Suit Mod"
+        }
+    ]
+}

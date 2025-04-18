@@ -358,5 +358,10 @@
         "appid": "steam_1019550",
         "platform": "steam",
         "game_name": "Thief Simulator VR"
+    },
+    {
+        "appid": "steam_1443620",
+        "platform": "steam",
+        "game_name": "Pirates VR:Jolly Poger"
     }
 ]

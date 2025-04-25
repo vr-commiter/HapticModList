@@ -1,0 +1,17 @@
+{
+    "author_name": "vr-commiter",
+    "game_name": "Hard Bullet",
+    "appid": "steam_1294760",
+    "desc": "Hard Bullet TrueGear Suit Mod",
+    "website": "https://github.com/vr-commiter/HardBullet",
+    "version_list": [
+        {
+            "date_updated": "",
+            "download_link": "https://github.com/vr-commiter/HardBullet/releases/download/v0.1.0-beta/a5cd5f44af49dbea45718bf88558c193.zip",
+            "md5_value": "a5cd5f44af49dbea45718bf88558c193",
+            "version": "v0.1.0-beta",
+            "status": "beta"
+        }
+    ],
+    "mods": []
+}

@@ -363,5 +363,10 @@
         "appid": "steam_1443620",
         "platform": "steam",
         "game_name": "Pirates VR:Jolly Poger"
+    },
+    {
+        "appid": "steam_1294760",
+        "platform": "steam",
+        "game_name": "Hard Bullet"
     }
 ]

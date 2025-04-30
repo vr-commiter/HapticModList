@@ -1,0 +1,11 @@
+{
+    "game_name": "The Room VR: A Dark Matter",
+    "appid": "steam_1104380",
+    "mods": [
+        {
+            "author_name": "vr-commiter",
+            "file": "truegear_driver.json",
+            "title": "The Room VR: A Dark Matter TrueGear Suit Mod"
+        }
+    ]
+}

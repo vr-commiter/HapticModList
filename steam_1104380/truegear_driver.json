@@ -1,0 +1,17 @@
+{
+    "author_name": "vr-commiter",
+    "game_name": "The Room VR: A Dark Matter",
+    "appid": "steam_1104380",
+    "desc": "The Room VR: A Dark Matter TrueGear Suit Mod",
+    "website": "https://github.com/vr-commiter/TheRoomVRADarkMatter",
+    "version_list": [
+        {
+            "date_updated": "",
+            "download_link": "https://github.com/vr-commiter/TheRoomVRADarkMatter/releases/download/v0.1.0-beta/c1d0f082705955436a6f9c057f963b52.zip",
+            "md5_value": "c1d0f082705955436a6f9c057f963b52",
+            "version": "v0.1.0-beta",
+            "status": "beta"
+        }
+    ],
+    "mods": []
+}

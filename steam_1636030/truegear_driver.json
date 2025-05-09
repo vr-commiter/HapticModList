@@ -1,0 +1,17 @@
+{
+    "author_name": "vr-commiter",
+    "game_name": "CROSSFIRE: SIERRA SQUAD",
+    "appid": "steam_1636030",
+    "desc": "CROSSFIRE: SIERRA SQUAD TrueGear Suit Mod",
+    "website": "https://github.com/vr-commiter/CrossFireSierraSquad",
+    "version_list": [
+        {
+            "date_updated": "",
+            "download_link": "https://github.com/vr-commiter/CrossFireSierraSquad/releases/download/v0.1.0-beta/91d0802fcdbae1c2fa44b2471bd85c60.zip",
+            "md5_value": "91d0802fcdbae1c2fa44b2471bd85c60",
+            "version": "v0.1.0-beta",
+            "status": "beta"
+        }
+    ],
+    "mods": []
+}

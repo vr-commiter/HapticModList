@@ -1,0 +1,11 @@
+{
+    "game_name": "CROSSFIRE: SIERRA SQUAD",
+    "appid": "steam_1636030",
+    "mods": [
+        {
+            "author_name": "vr-commiter",
+            "file": "truegear_driver.json",
+            "title": "CROSSFIRE: SIERRA SQUAD TrueGear Suit Mod"
+        }
+    ]
+}

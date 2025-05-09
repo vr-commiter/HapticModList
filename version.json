@@ -373,5 +373,10 @@
         "appid": "steam_1104380",
         "platform": "steam",
         "game_name": "The Room VR: A Dark Matter"
+    },
+    {
+        "appid": "steam_1636030",
+        "platform": "steam",
+        "game_name": "CROSSFIRE: SIERRA SQUAD"
     }
 ]

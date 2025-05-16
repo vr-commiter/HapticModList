@@ -378,5 +378,10 @@
         "appid": "steam_1636030",
         "platform": "steam",
         "game_name": "CROSSFIRE: SIERRA SQUAD"
+    },
+    {
+        "appid": "steam_1318090",
+        "platform": "steam",
+        "game_name": "Vertigo Remastered"
     }
 ]

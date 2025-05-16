@@ -1,0 +1,11 @@
+{
+    "game_name": "Vertigo Mastered",
+    "appid": "steam_1318090",
+    "mods": [
+        {
+            "author_name": "vr-commiter",
+            "file": "truegear_driver.json",
+            "title": "Vertigo Mastered TrueGear Suit Mod"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "author_name": "vr-commiter",
+    "game_name": "Vertigo Remastered",
+    "appid": "steam_1318090",
+    "desc": "Vertigo Remastered TrueGear Suit Mod",
+    "website": "https://github.com/vr-commiter/VertigoRemastered",
+    "version_list": [
+        {
+            "date_updated": "",
+            "download_link": "https://github.com/vr-commiter/VertigoRemastered/releases/download/v0.1.0-beta/3682898c818940e09145106ee9c8ca0b.zip",
+            "md5_value": "3682898c818940e09145106ee9c8ca0b",
+            "version": "v0.1.0-beta",
+            "status": "beta"
+        }
+    ],
+    "mods": []
+}

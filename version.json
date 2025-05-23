@@ -383,5 +383,10 @@
         "appid": "steam_1318090",
         "platform": "steam",
         "game_name": "Vertigo Remastered"
+    },
+    {
+        "appid": "steam_1683340",
+        "platform": "steam",
+        "game_name": "Kayak VR:Mirage"
     }
 ]

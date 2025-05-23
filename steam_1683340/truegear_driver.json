@@ -1,0 +1,17 @@
+{
+    "author_name": "vr-commiter",
+    "game_name": "Kayak VR:Mirage",
+    "appid": "steam_1683340",
+    "desc": "Kayak VR:Mirage TrueGear Suit Mod",
+    "website": "https://github.com/vr-commiter/KayakVRMirage",
+    "version_list": [
+        {
+            "date_updated": "",
+            "download_link": "https://github.com/vr-commiter/KayakVRMirage/releases/download/v0.1.0-beta/2e18370f13f930b3ad18f4a14e99d01e.zip",
+            "md5_value": "2e18370f13f930b3ad18f4a14e99d01e",
+            "version": "v0.1.0-beta",
+            "status": "beta"
+        }
+    ],
+    "mods": []
+}

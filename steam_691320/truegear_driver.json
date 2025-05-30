@@ -1,0 +1,17 @@
+{
+    "author_name": "vr-commiter",
+    "game_name": "Gun Club VR",
+    "appid": "steam_691320",
+    "desc": "Gun Club VR TrueGear Suit Mod",
+    "website": "https://github.com/vr-commiter/GunClubVR",
+    "version_list": [
+        {
+            "date_updated": "",
+            "download_link": "https://github.com/vr-commiter/GunClubVR/releases/download/v0.1.0-beta/72fd5b22e9c05e7d22364d0910316629.zip",
+            "md5_value": "72fd5b22e9c05e7d22364d0910316629",
+            "version": "v0.1.0-beta",
+            "status": "beta"
+        }
+    ],
+    "mods": []
+}

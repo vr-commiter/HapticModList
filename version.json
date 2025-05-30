@@ -388,5 +388,10 @@
         "appid": "steam_1683340",
         "platform": "steam",
         "game_name": "Kayak VR:Mirage"
+    },
+    {
+        "appid": "steam_691320",
+        "platform": "steam",
+        "game_name": "Gun Club VR"
     }
 ]

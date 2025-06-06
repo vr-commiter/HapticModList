@@ -1,0 +1,11 @@
+{
+    "game_name": "Rick and Morty:Virtual Rick-ality",
+    "appid": "steam_469610",
+    "mods": [
+        {
+            "author_name": "vr-commiter",
+            "file": "truegear_driver.json",
+            "title": "Rick and Morty:Virtual Rick-ality TrueGear Suit Driver"
+        }
+    ]
+}

@@ -393,5 +393,10 @@
         "appid": "steam_691320",
         "platform": "steam",
         "game_name": "Gun Club VR"
+    },
+    {
+        "appid": "steam_469610",
+        "platform": "steam",
+        "game_name": "Rick and Morty:Virtual Rick-ality"
     }
 ]

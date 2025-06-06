@@ -1,0 +1,17 @@
+{
+    "appid": "steam_469610",
+    "game_name": "Rick and Morty:Virtual Rick-ality",
+    "author_name": "vr-commiter",
+    "desc": "Rick and Morty:Virtual Rick-ality TrueGear Suit Driver",
+    "website": "https://github.com/vr-commiter/RickAndMortyVirtualRickAlity",
+    "readme_link": "https://github.com/vr-commiter/RickAndMortyVirtualRickAlity/blob/master/README.md",
+    "version_list": [
+        {
+            "date_updated": "",
+            "download_link": "https://github.com/vr-commiter/RickAndMortyVirtualRickAlity/releases/download/v0.1.0-beta/ddfe066374e5cae5f33e9f565b6c236d.zip",
+            "md5_value": "ddfe066374e5cae5f33e9f565b6c236d",
+            "version": "v0.1.0-beta",
+            "status": "beta"
+        }
+    ]
+}

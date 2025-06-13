@@ -1,0 +1,17 @@
+{
+    "author_name": "vr-commiter",
+    "game_name": "Arken Age",
+    "appid": "steam_2274200",
+    "desc": "Arken Age TrueGear Suit Mod",
+    "website": "https://github.com/vr-commiter/ArkenAge",
+    "version_list": [
+        {
+            "date_updated": "",
+            "download_link": "https://github.com/vr-commiter/ArkenAge/releases/download/v0.1.0-beta/45563d1b3d8ed54f68a1cc9f395b8915.zip",
+            "md5_value": "45563d1b3d8ed54f68a1cc9f395b8915",
+            "version": "v0.1.0-beta",
+            "status": "beta"
+        }
+    ],
+    "mods": []
+}

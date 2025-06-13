@@ -1,0 +1,11 @@
+{
+    "game_name": "Arken Age",
+    "appid": "steam_2274200",
+    "mods": [
+        {
+            "author_name": "vr-commiter",
+            "file": "truegear_driver.json",
+            "title": "Arken Age TrueGear Suit Mod"
+        }
+    ]
+}

@@ -398,5 +398,10 @@
         "appid": "steam_469610",
         "platform": "steam",
         "game_name": "Rick and Morty:Virtual Rick-ality"
+    },
+    {
+        "appid": "steam_2274200",
+        "platform": "steam",
+        "game_name": "Arken Age"
     }
 ]

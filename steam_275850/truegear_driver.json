@@ -1,0 +1,17 @@
+{
+    "appid": "steam_275850",
+    "game_name": "No Man's Sky",
+    "author_name": "vr-commiter",
+    "desc": "No Man's Sky TrueGear Suit Driver",
+    "website": "https://github.com/vr-commiter/NoMansSky",
+    "readme_link": "https://github.com/vr-commiter/NoMansSky/blob/master/README.md",
+    "version_list": [
+        {
+            "date_updated": "",
+            "download_link": "https://github.com/vr-commiter/NoMansSky/releases/download/v0.1.0-beta/3cea962b1925f574d5dce0400c5f16b9.zip",
+            "md5_value": "3cea962b1925f574d5dce0400c5f16b9",
+            "version": "v0.1.0-beta",
+            "status": "beta"
+        }
+    ]
+}

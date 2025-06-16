@@ -403,5 +403,10 @@
         "appid": "steam_2274200",
         "platform": "steam",
         "game_name": "Arken Age"
+    },
+    {
+        "appid": "steam_275850",
+        "platform": "steam",
+        "game_name": "No Man's Sky"
     }
 ]

@@ -1,0 +1,11 @@
+{
+    "game_name": "Clair Obscur Expedition 33",
+    "appid": "steam_1903340",
+    "mods": [
+        {
+            "author_name": "vr-commiter",
+            "file": "truegear_driver.json",
+            "title": "Clair Obscur Expedition 33 TrueGear Suit Driver"
+        }
+    ]
+}

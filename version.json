@@ -408,5 +408,10 @@
         "appid": "steam_275850",
         "platform": "steam",
         "game_name": "No Man's Sky"
+    },
+    {
+        "appid": "steam_1903340",
+        "platform": "steam",
+        "game_name": "Clair Obscur Expedition 33"
     }
 ]

@@ -1,0 +1,16 @@
+{
+    "appid": "steam_1903340",
+    "game_name": "Clair Obscur Expedition 33",
+    "author_name": "vr-commiter",
+    "desc": "Clair Obscur Expedition 33 TrueGear Suit Driver",
+    "website": "https://github.com/vr-commiter/ClairObscurExpedition33",
+    "version_list": [
+        {
+            "date_updated": "",
+            "download_link": "https://github.com/vr-commiter/ClairObscurExpedition33/releases/download/v0.1.0-beta/a71b00a43d67349cc9eb091a032cd974.zip",
+            "md5_value": "a71b00a43d67349cc9eb091a032cd974",
+            "version": "v0.1.0-beta",
+            "status": "beta"
+        }
+    ]
+}

@@ -413,5 +413,10 @@
         "appid": "steam_1903340",
         "platform": "steam",
         "game_name": "Clair Obscur Expedition 33"
+    },
+    {
+        "appid": "steam_3193760",
+        "platform": "steam",
+        "game_name": "Mecha Force"
     }
 ]

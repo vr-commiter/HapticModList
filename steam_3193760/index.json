@@ -1,0 +1,11 @@
+{
+    "game_name": "Mecha Force",
+    "appid": "steam_3193760",
+    "mods": [
+        {
+            "author_name": "vr-commiter",
+            "file": "truegear_driver.json",
+            "title": "Mecha Force TrueGear Suit Mod"
+        }
+    ]
+}

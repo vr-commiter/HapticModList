@@ -1,0 +1,16 @@
+{
+    "author_name": "vr-commiter",
+    "game_name": "Mecha Force",
+    "appid": "steam_3193760",
+    "desc": "Mecha Force TrueGear Suit Mod",
+    "website": "https://github.com/vr-commiter/MechaForce",
+    "version_list": [
+        {
+            "date_updated": "",
+            "download_link": "https://github.com/vr-commiter/MechaForce/releases/download/v0.1.0-beta/10c502d7acd7383a8ff01e671e0afd4c.zip",
+            "md5_value": "10c502d7acd7383a8ff01e671e0afd4c",
+            "version": "v0.1.0-beta",
+            "status": "beta"
+        }
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "game_name": "Stellar Blade",
+    "appid": "steam_3489700",
+    "mods": [
+        {
+            "author_name": "vr-commiter",
+            "file": "truegear_driver.json",
+            "title": "Stellar Blade TrueGear Suit Mod"
+        }
+    ]
+}

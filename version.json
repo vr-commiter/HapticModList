@@ -418,5 +418,10 @@
         "appid": "steam_3193760",
         "platform": "steam",
         "game_name": "Mecha Force"
+    },
+    {
+        "appid": "steam_3489700",
+        "platform": "steam",
+        "game_name": "Stellar Blade"
     }
 ]

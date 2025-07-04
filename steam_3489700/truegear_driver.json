@@ -1,0 +1,17 @@
+{
+    "author_name": "vr-commiter",
+    "game_name": "Stellar Blade",
+    "appid": "steam_3489700",
+    "desc": "Stellar Blade TrueGear Suit Mod",
+    "website": "https://github.com/vr-commiter/StellarBlade",
+    "version_list": [
+        {
+            "date_updated": "",
+            "download_link": "https://github.com/vr-commiter/StellarBlade/releases/download/v0.1.0-beta/c8acc78dfc275fb93998d4742680797d.zip",
+            "md5_value": "c8acc78dfc275fb93998d4742680797d",
+            "version": "v0.1.0-beta",
+            "status": "beta"
+        }
+    ],
+    "mods": []
+}

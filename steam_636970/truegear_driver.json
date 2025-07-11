@@ -1,0 +1,17 @@
+{
+    "author_name": "vr-commiter",
+    "game_name": "Tales Of Glory",
+    "appid": "steam_636970",
+    "desc": "Tales Of Glory TrueGear Suit Mod",
+    "website": "https://github.com/vr-commiter/TalesOfGlory",
+    "version_list": [
+        {
+            "date_updated": "",
+            "download_link": "https://github.com/vr-commiter/TalesOfGlory/releases/download/v0.1.0-beta/04924dcd3e20838b46c8df9ff3c2e5bd.zip",
+            "md5_value": "04924dcd3e20838b46c8df9ff3c2e5bd",
+            "version": "v0.1.0-beta",
+            "status": "beta"
+        }
+    ],
+    "mods": []
+}

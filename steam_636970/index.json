@@ -1,0 +1,11 @@
+{
+    "game_name": "Tales Of Glory",
+    "appid": "steam_636970",
+    "mods": [
+        {
+            "author_name": "vr-commiter",
+            "file": "truegear_driver.json",
+            "title": "Tales Of Glory TrueGear Suit Mod"
+        }
+    ]
+}

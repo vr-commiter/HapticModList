@@ -423,5 +423,10 @@
         "appid": "steam_3489700",
         "platform": "steam",
         "game_name": "Stellar Blade"
+    },
+    {
+        "appid": "steam_636970",
+        "platform": "steam",
+        "game_name": "Tales Of Glory"
     }
 ]

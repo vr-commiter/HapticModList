@@ -428,5 +428,10 @@
         "appid": "steam_636970",
         "platform": "steam",
         "game_name": "Tales Of Glory"
+    },
+    {
+        "appid": "steam_3391450",
+        "platform": "steam",
+        "game_name": "GORN 2"
     }
 ]

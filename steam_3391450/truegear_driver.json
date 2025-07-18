@@ -1,0 +1,17 @@
+{
+    "author_name": "vr-commiter",
+    "game_name": "GORN 2",
+    "appid": "steam_3391450",
+    "desc": "GORN 2 TrueGear Suit Mod",
+    "website": "https://github.com/vr-commiter/GORN2",
+    "version_list": [
+        {
+            "date_updated": "",
+            "download_link": "https://github.com/vr-commiter/GORN2/releases/download/v0.1.0-beta/ae8a03e98a9db2ed5949f10fcc4ae22f.zip",
+            "md5_value": "ae8a03e98a9db2ed5949f10fcc4ae22f",
+            "version": "v0.1.0-beta",
+            "status": "beta"
+        }
+    ],
+    "mods": []
+}

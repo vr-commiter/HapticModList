@@ -1,0 +1,11 @@
+{
+    "game_name": "In Death",
+    "appid": "steam_605450",
+    "mods": [
+        {
+            "author_name": "vr-commiter",
+            "file": "truegear_driver.json",
+            "title": "In Death TrueGear Suit Mod"
+        }
+    ]
+}

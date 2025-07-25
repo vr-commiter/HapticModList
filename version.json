@@ -425,13 +425,18 @@
         "game_name": "Stellar Blade"
     },
     {
-        "appid": "steam_636970",
+        "appid": "steam_605450",
         "platform": "steam",
-        "game_name": "Tales Of Glory"
+        "game_name": "In Death"
     },
     {
         "appid": "steam_3391450",
         "platform": "steam",
         "game_name": "GORN 2"
+    },
+    {
+        "appid": "steam_636970",
+        "platform": "steam",
+        "game_name": "Tales Of Glory"
     }
 ]

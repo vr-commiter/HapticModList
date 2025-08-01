@@ -1,0 +1,17 @@
+{
+    "author_name": "vr-commiter",
+    "game_name": "PAYDAY 2",
+    "appid": "steam_218620",
+    "desc": "PAYDAY 2 TrueGear Suit Mod",
+    "website": "https://github.com/vr-commiter/PAYDAY2",
+    "version_list": [
+        {
+            "date_updated": "",
+            "download_link": "https://github.com/vr-commiter/PAYDAY2/releases/download/v0.1.0-beta/ac45e0c7d7956c685d27d54123a5c3c3.zip",
+            "md5_value": "ac45e0c7d7956c685d27d54123a5c3c3",
+            "version": "v0.1.0-beta",
+            "status": "beta"
+        }
+    ],
+    "mods": []
+}

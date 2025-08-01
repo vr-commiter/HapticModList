@@ -438,5 +438,10 @@
         "appid": "steam_636970",
         "platform": "steam",
         "game_name": "Tales Of Glory"
+    },
+    {
+        "appid": "steam_218620",
+        "platform": "steam",
+        "game_name": "PAYDAY 2"
     }
 ]

@@ -1,0 +1,11 @@
+{
+    "game_name": "Tales Of Glory 2 - Retaliation",
+    "appid": "steam_1089780",
+    "mods": [
+        {
+            "author_name": "vr-commiter",
+            "file": "truegear_driver.json",
+            "title": "Tales Of Glory 2 - Retaliation TrueGear Suit Mod"
+        }
+    ]
+}

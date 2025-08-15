@@ -1,0 +1,17 @@
+{
+    "author_name": "vr-commiter",
+    "game_name": "Tales Of Glory 2 - Retaliation",
+    "appid": "steam_1089780",
+    "desc": "Tales Of Glory 2 - Retaliation TrueGear Suit Mod",
+    "website": "https://github.com/vr-commiter/TalesOfGlory2",
+    "version_list": [
+        {
+            "date_updated": "",
+            "download_link": "https://github.com/vr-commiter/TalesOfGlory2/releases/download/v0.1.0-beta/11b5294d3297727094376435a65f16af.zip",
+            "md5_value": "11b5294d3297727094376435a65f16af",
+            "version": "v0.1.0-beta",
+            "status": "beta"
+        }
+    ],
+    "mods": []
+}

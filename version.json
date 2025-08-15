@@ -443,5 +443,10 @@
         "appid": "steam_218620",
         "platform": "steam",
         "game_name": "PAYDAY 2"
+    },
+    {
+        "appid": "steam_1089780",
+        "platform": "steam",
+        "game_name": "Tales Of Glory 2 - Retaliation"
     }
 ]

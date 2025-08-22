@@ -1,0 +1,11 @@
+{
+    "game_name": "The Living Remain",
+    "appid": "steam_594220",
+    "mods": [
+        {
+            "author_name": "vr-commiter",
+            "file": "truegear_driver.json",
+            "title": "The Living Remain TrueGear Suit Mod"
+        }
+    ]
+}

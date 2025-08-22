@@ -1,0 +1,17 @@
+{
+    "author_name": "vr-commiter",
+    "game_name": "Soul Covenant",
+    "appid": "steam_2237740",
+    "desc": "Soul Covenant TrueGear Suit Mod",
+    "website": "https://github.com/vr-commiter/SoulCovenant",
+    "version_list": [
+        {
+            "date_updated": "",
+            "download_link": "https://github.com/vr-commiter/SoulCovenant/releases/download/v0.1.0-beta/00617f30d01b992fbfa3c7d99c3d765c.zip",
+            "md5_value": "00617f30d01b992fbfa3c7d99c3d765c",
+            "version": "v0.1.0-beta",
+            "status": "beta"
+        }
+    ],
+    "mods": []
+}

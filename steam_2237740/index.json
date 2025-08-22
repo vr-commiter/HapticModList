@@ -1,0 +1,11 @@
+{
+    "game_name": "Soul Covenant",
+    "appid": "steam_2237740",
+    "mods": [
+        {
+            "author_name": "vr-commiter",
+            "file": "truegear_driver.json",
+            "title": "Soul Covenant TrueGear Suit Mod"
+        }
+    ]
+}

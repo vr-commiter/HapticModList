@@ -1,0 +1,17 @@
+{
+    "author_name": "vr-commiter",
+    "game_name": "The Living Remain",
+    "appid": "steam_594220",
+    "desc": "The Living Remain TrueGear Suit Mod",
+    "website": "https://github.com/vr-commiter/TheLivingRemain",
+    "version_list": [
+        {
+            "date_updated": "",
+            "download_link": "https://github.com/vr-commiter/TheLivingRemain/releases/download/v0.1.0-beta/83e47ed8a1ad10e80943ab26b5c9462e.zip",
+            "md5_value": "83e47ed8a1ad10e80943ab26b5c9462e",
+            "version": "v0.1.0-beta",
+            "status": "beta"
+        }
+    ],
+    "mods": []
+}

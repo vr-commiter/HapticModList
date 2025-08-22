@@ -448,5 +448,15 @@
         "appid": "steam_1089780",
         "platform": "steam",
         "game_name": "Tales Of Glory 2 - Retaliation"
+    },
+    {
+        "appid": "steam_2237740",
+        "platform": "steam",
+        "game_name": "Soul Covenant"
+    },
+    {
+        "appid": "steam_594220",
+        "platform": "steam",
+        "game_name": "The Living Remain"
     }
 ]

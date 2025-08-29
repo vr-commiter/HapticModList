@@ -1,0 +1,17 @@
+{
+    "author_name": "vr-commiter",
+    "game_name": "Dragon Fist:VR Kung Fu",
+    "appid": "steam_1481780",
+    "desc": "Dragon Fist:VR Kung Fu TrueGear Suit Mod",
+    "website": "https://github.com/vr-commiter/DragonFistVR",
+    "version_list": [
+        {
+            "date_updated": "",
+            "download_link": "https://github.com/vr-commiter/DragonFistVR/releases/download/v0.1.0-beta/9bc45cf6c56af0dabe5de6b562eebf47.zip",
+            "md5_value": "9bc45cf6c56af0dabe5de6b562eebf47",
+            "version": "v0.1.0-beta",
+            "status": "beta"
+        }
+    ],
+    "mods": []
+}

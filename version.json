@@ -458,5 +458,10 @@
         "appid": "steam_594220",
         "platform": "steam",
         "game_name": "The Living Remain"
+    },
+    {
+        "appid": "steam_1481780",
+        "platform": "steam",
+        "game_name": "Dragon Fist:VR Kung Fu"
     }
 ]

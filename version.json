@@ -463,5 +463,10 @@
         "appid": "steam_1481780",
         "platform": "steam",
         "game_name": "Dragon Fist:VR Kung Fu"
+    },
+    {
+        "appid": "steam_2669380",
+        "platform": "steam",
+        "game_name": "BRUTALISTICK VR"
     }
 ]

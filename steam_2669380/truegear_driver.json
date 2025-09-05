@@ -1,0 +1,17 @@
+{
+    "author_name": "vr-commiter",
+    "game_name": "BRUTALISTICK VR",
+    "appid": "steam_2669380",
+    "desc": "BRUTALISTICK VR TrueGear Suit Mod",
+    "website": "https://github.com/vr-commiter/BRUTALISTICKVR",
+    "version_list": [
+        {
+            "date_updated": "",
+            "download_link": "https://github.com/vr-commiter/BRUTALISTICKVR/releases/download/v0.1.0-beta/c2497eaeab8ef0acbd3f756976dd8b74.zip",
+            "md5_value": "c2497eaeab8ef0acbd3f756976dd8b74",
+            "version": "v0.1.0-beta",
+            "status": "beta"
+        }
+    ],
+    "mods": []
+}

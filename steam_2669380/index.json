@@ -1,0 +1,11 @@
+{
+    "game_name": "BRUTALISTICK VR",
+    "appid": "steam_2669380",
+    "mods": [
+        {
+            "author_name": "vr-commiter",
+            "file": "truegear_driver.json",
+            "title": "BRUTALISTICK VR TrueGear Suit Mod"
+        }
+    ]
+}

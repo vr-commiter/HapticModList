@@ -1,0 +1,11 @@
+{
+    "game_name": "Blood Trail",
+    "appid": "steam_1032430",
+    "mods": [
+        {
+            "author_name": "vr-commiter",
+            "file": "truegear_driver.json",
+            "title": "Blood Trail TrueGear Suit Mod"
+        }
+    ]
+}

@@ -468,5 +468,10 @@
         "appid": "steam_2669380",
         "platform": "steam",
         "game_name": "BRUTALISTICK VR"
+    },
+    {
+        "appid": "steam_1032430",
+        "platform": "steam",
+        "game_name": "Blood Trail"
     }
 ]

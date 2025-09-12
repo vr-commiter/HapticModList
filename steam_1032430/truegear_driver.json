@@ -1,0 +1,17 @@
+{
+    "author_name": "vr-commiter",
+    "game_name": "Blood Trail",
+    "appid": "steam_1032430",
+    "desc": "Blood Trail TrueGear Suit Mod",
+    "website": "https://github.com/vr-commiter/BloodTrail",
+    "version_list": [
+        {
+            "date_updated": "",
+            "download_link": "https://github.com/vr-commiter/BloodTrail/releases/download/v0.1.0-beta/fcaf04f2195d03fb134a73d9289453f7.zip",
+            "md5_value": "fcaf04f2195d03fb134a73d9289453f7",
+            "version": "v0.1.0-beta",
+            "status": "beta"
+        }
+    ],
+    "mods": []
+}

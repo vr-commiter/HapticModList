@@ -1,0 +1,11 @@
+{
+    "game_name": "Tomb Explorer VR",
+    "appid": "steam_1969920",
+    "mods": [
+        {
+            "author_name": "vr-commiter",
+            "file": "truegear_driver.json",
+            "title": "Tomb Explorer VR TrueGear Suit Mod"
+        }
+    ]
+}

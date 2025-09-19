@@ -1,0 +1,17 @@
+{
+    "author_name": "vr-commiter",
+    "game_name": "Tomb Explorer VR",
+    "appid": "steam_1969920",
+    "desc": "Tomb Explorer VR TrueGear Suit Mod",
+    "website": "https://github.com/vr-commiter/BloodTrail",
+    "version_list": [
+        {
+            "date_updated": "",
+            "download_link": "https://github.com/vr-commiter/BloodTrail/releases/download/v0.1.0-beta/0321b3a5fd65428f9afc6409a0ca93c6.zip",
+            "md5_value": "0321b3a5fd65428f9afc6409a0ca93c6",
+            "version": "v0.1.0-beta",
+            "status": "beta"
+        }
+    ],
+    "mods": []
+}

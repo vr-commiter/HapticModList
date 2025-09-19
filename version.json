@@ -473,5 +473,15 @@
         "appid": "steam_1032430",
         "platform": "steam",
         "game_name": "Blood Trail"
+    },
+    {
+        "appid": "steam_1125240",
+        "platform": "steam",
+        "game_name": "Ancient Dungeon VR"
+    },
+    {
+        "appid": "steam_1969920",
+        "platform": "steam",
+        "game_name": "Tomb Explorer VR"
     }
 ]

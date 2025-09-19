@@ -1,0 +1,17 @@
+{
+    "author_name": "vr-commiter",
+    "game_name": "Ancient Dungeon VR",
+    "appid": "steam_1125240",
+    "desc": "Ancient Dungeon VR TrueGear Suit Mod",
+    "website": "https://github.com/vr-commiter/AncientDungeonVR",
+    "version_list": [
+        {
+            "date_updated": "",
+            "download_link": "https://github.com/vr-commiter/AncientDungeonVR/releases/download/v0.1.0-beta/2ae1a501096e3a2a343a139e51f7c7cb.zip",
+            "md5_value": "2ae1a501096e3a2a343a139e51f7c7cb",
+            "version": "v0.1.0-beta",
+            "status": "beta"
+        }
+    ],
+    "mods": []
+}

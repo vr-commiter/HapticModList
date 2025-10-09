@@ -483,5 +483,10 @@
         "appid": "steam_1969920",
         "platform": "steam",
         "game_name": "Tomb Explorer VR"
+    },
+    {
+        "appid": "steam_244210",
+        "platform": "steam",
+        "game_name": "Assetto Corsa"
     }
 ]

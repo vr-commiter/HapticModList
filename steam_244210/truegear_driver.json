@@ -1,0 +1,17 @@
+{
+    "author_name": "vr-commiter",
+    "game_name": "Assetto Corsa",
+    "appid": "steam_244210",
+    "desc": "Assetto Corsa TrueGear Suit Mod",
+    "website": "https://github.com/vr-commiter/AssettoCorsa",
+    "version_list": [
+        {
+            "date_updated": "",
+            "download_link": "https://github.com/vr-commiter/AssettoCorsa/releases/download/v0.1.0-beta/6af107e23d58c3fdd6ca007fc6c5523a.zip",
+            "md5_value": "6af107e23d58c3fdd6ca007fc6c5523a",
+            "version": "v0.1.0-beta",
+            "status": "beta"
+        }
+    ],
+    "mods": []
+}

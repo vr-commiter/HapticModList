@@ -1,0 +1,17 @@
+{
+    "author_name": "vr-commiter",
+    "game_name": "Hotel R'n'R",
+    "appid": "steam_1011290",
+    "desc": "Hotel R'n'R TrueGear Suit Mod",
+    "website": "https://github.com/vr-commiter/HotelRnR",
+    "version_list": [
+        {
+            "date_updated": "",
+            "download_link": "https://github.com/vr-commiter/HotelRnR/releases/download/v0.1.0-beta/9e74e11b0e583af980115692c1a44d95.zip",
+            "md5_value": "9e74e11b0e583af980115692c1a44d95",
+            "version": "v0.1.0-beta",
+            "status": "beta"
+        }
+    ],
+    "mods": []
+}

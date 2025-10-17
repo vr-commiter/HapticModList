@@ -1,0 +1,11 @@
+{
+    "game_name": "Hotel R'n'R",
+    "appid": "steam_1011290",
+    "mods": [
+        {
+            "author_name": "vr-commiter",
+            "file": "truegear_driver.json",
+            "title": "Hotel R'n'R TrueGear Suit Mod"
+        }
+    ]
+}

@@ -488,5 +488,10 @@
         "appid": "steam_244210",
         "platform": "steam",
         "game_name": "Assetto Corsa"
+    },
+    {
+        "appid": "steam_1011290",
+        "platform": "steam",
+        "game_name": "Hotel R'n'R"
     }
 ]

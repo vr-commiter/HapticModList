@@ -1,0 +1,17 @@
+{
+    "author_name": "vr-commiter",
+    "game_name": "Dungeons of Eternity",
+    "appid": "steam_3189340",
+    "desc": "Dungeons of Eternity TrueGear Suit Mod",
+    "website": "https://github.com/vr-commiter/DungeonsofTernity",
+    "version_list": [
+        {
+            "date_updated": "",
+            "download_link": "https://github.com/vr-commiter/DungeonsofTernity/releases/download/v0.1.0-beta/ad779877eada221837b112e47370054e.zip",
+            "md5_value": "ad779877eada221837b112e47370054e",
+            "version": "v0.1.0-beta",
+            "status": "beta"
+        }
+    ],
+    "mods": []
+}

@@ -493,5 +493,10 @@
         "appid": "steam_1011290",
         "platform": "steam",
         "game_name": "Hotel R'n'R"
+    },
+    {
+        "appid": "steam_3189340",
+        "platform": "steam",
+        "game_name": "Dungeons of Eternity"
     }
 ]

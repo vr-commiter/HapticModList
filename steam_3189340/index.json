@@ -1,0 +1,11 @@
+{
+    "game_name": "Dungeons of Eternity",
+    "appid": "steam_3189340",
+    "mods": [
+        {
+            "author_name": "vr-commiter",
+            "file": "truegear_driver.json",
+            "title": "Dungeons of Eternity TrueGear Suit Mod"
+        }
+    ]
+}

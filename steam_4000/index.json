@@ -1,0 +1,11 @@
+{
+    "game_name": "Garry's Mod",
+    "appid": "steam_4000",
+    "mods": [
+        {
+            "author_name": "vr-commiter",
+            "file": "truegear_driver.json",
+            "title": "Garry's Mod TrueGear Suit Driver"
+        }
+    ]
+}

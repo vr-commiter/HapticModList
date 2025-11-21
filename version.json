@@ -498,5 +498,10 @@
         "appid": "steam_3189340",
         "platform": "steam",
         "game_name": "Dungeons of Eternity"
+    },
+    {
+        "appid": "steam_4000",
+        "platform": "steam",
+        "game_name": "Garry's Mod"
     }
 ]

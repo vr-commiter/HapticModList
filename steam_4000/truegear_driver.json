@@ -1,0 +1,17 @@
+{
+    "appid": "steam_4000",
+    "game_name": "Garry's Mod",
+    "author_name": "vr-commiter",
+    "desc": "Garry's Mod TrueGear Suit Driver",
+    "website": "https://github.com/vr-commiter/GMod",
+    "readme_link": "https://github.com/vr-commiter/GMod/blob/master/README.md",
+    "version_list": [
+        {
+            "date_updated": "",
+            "download_link": "https://github.com/vr-commiter/GMod/releases/download/v0.1.0-beta/ec121e20c7c475f03a2b0bd080757781.zip",
+            "md5_value": "ec121e20c7c475f03a2b0bd080757781",
+            "version": "v0.1.0-beta",
+            "status": "beta"
+        }
+    ]
+}

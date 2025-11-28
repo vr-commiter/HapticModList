@@ -503,5 +503,10 @@
         "appid": "steam_4000",
         "platform": "steam",
         "game_name": "Garry's Mod"
+    },
+    {
+        "appid": "steam_1599560",
+        "platform": "steam",
+        "game_name": "Wanderer"
     }
 ]

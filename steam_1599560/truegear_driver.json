@@ -1,0 +1,17 @@
+{
+    "author_name": "vr-commiter",
+    "game_name": "Wanderer",
+    "appid": "steam_1599560",
+    "desc": "Wanderer TrueGear Suit Mod",
+    "website": "https://github.com/vr-commiter/Wanderer",
+    "version_list": [
+        {
+            "date_updated": "",
+            "download_link": "https://github.com/vr-commiter/Wanderer/releases/download/v0.1.0-beta/c15e2a068d6ff39a9cd110544fa00d8a.zip",
+            "md5_value": "c15e2a068d6ff39a9cd110544fa00d8a",
+            "version": "v0.1.0-beta",
+            "status": "beta"
+        }
+    ],
+    "mods": []
+}

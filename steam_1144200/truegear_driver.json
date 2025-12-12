@@ -1,0 +1,17 @@
+{
+    "appid": "steam_1144200",
+    "game_name": "Ready or Not",
+    "author_name": "vr-commiter",
+    "desc": "Ready or Not TrueGear Suit Driver",
+    "website": "https://github.com/vr-commiter/ReadyOrNot",
+    "readme_link": "https://github.com/vr-commiter/ReadyOrNot/blob/master/README.md",
+    "version_list": [
+        {
+            "date_updated": "",
+            "download_link": "https://github.com/vr-commiter/ReadyOrNot/releases/download/v0.1.0-beta/3c0ccb7176b6c21c1c06baedc6e46e0b.zip",
+            "md5_value": "3c0ccb7176b6c21c1c06baedc6e46e0b",
+            "version": "v0.1.0-beta",
+            "status": "beta"
+        }
+    ]
+}

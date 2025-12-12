@@ -1,0 +1,11 @@
+{
+    "game_name": "Ready or Not",
+    "appid": "steam_1144200",
+    "mods": [
+        {
+            "author_name": "vr-commiter",
+            "file": "truegear_driver.json",
+            "title": "Ready or Not TrueGear Suit Driver"
+        }
+    ]
+}

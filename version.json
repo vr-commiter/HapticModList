@@ -508,5 +508,15 @@
         "appid": "steam_1599560",
         "platform": "steam",
         "game_name": "Wanderer"
+    },
+    {
+        "appid": "steam_2496180",
+        "platform": "steam",
+        "game_name": "Ghost Town"
+    },
+    {
+        "appid": "steam_1144200",
+        "platform": "steam",
+        "game_name": "Ready or Not"
     }
 ]

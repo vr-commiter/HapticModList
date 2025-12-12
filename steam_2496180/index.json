@@ -1,0 +1,11 @@
+{
+    "game_name": "Ghost Town",
+    "appid": "steam_2496180",
+    "mods": [
+        {
+            "author_name": "vr-commiter",
+            "file": "truegear_driver.json",
+            "title": "Ghost Town TrueGear Suit Mod"
+        }
+    ]
+}

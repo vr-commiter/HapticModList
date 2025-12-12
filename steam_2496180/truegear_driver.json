@@ -1,0 +1,17 @@
+{
+    "author_name": "vr-commiter",
+    "game_name": "Ghost Town",
+    "appid": "steam_2496180",
+    "desc": "Ghost Town TrueGear Suit Mod",
+    "website": "https://github.com/vr-commiter/GhostTown",
+    "version_list": [
+        {
+            "date_updated": "",
+            "download_link": "https://github.com/vr-commiter/GhostTown/releases/download/v0.1.0-beta/a9162210f9ab19c6e1b82c018778aab5.zip",
+            "md5_value": "a9162210f9ab19c6e1b82c018778aab5",
+            "version": "v0.1.0-beta",
+            "status": "beta"
+        }
+    ],
+    "mods": []
+}

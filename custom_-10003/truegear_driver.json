@@ -1,0 +1,17 @@
+{
+    "appid": "custom_-10003",
+    "game_name": "Simhub",
+    "author_name": "vr-commiter",
+    "desc": "Simhub TrueGear Suit Driver",
+    "website": "https://github.com/vr-commiter/Simhub",
+    "readme_link": "https://github.com/vr-commiter/Simhub/blob/master/README.md",
+    "version_list": [
+        {
+            "date_updated": "",
+            "download_link": "https://github.com/vr-commiter/Simhub/releases/download/v0.1.0-beta/e3c0f7f68d0d12cc7a48618a746859ef.zip",
+            "md5_value": "e3c0f7f68d0d12cc7a48618a746859ef",
+            "version": "v0.1.0-beta",
+            "status": "beta"
+        }
+    ]
+}

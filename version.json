@@ -518,5 +518,10 @@
         "appid": "steam_1144200",
         "platform": "steam",
         "game_name": "Ready or Not"
+    },
+    {
+        "appid": "custom_-10003",
+        "platform": "custom",
+        "game_name": "Simhub"
     }
 ]

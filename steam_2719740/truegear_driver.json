@@ -1,0 +1,17 @@
+{
+    "author_name": "vr-commiter",
+    "game_name": "Zero Caliber 2",
+    "appid": "steam_1274570",
+    "desc": "Zero Caliber 2 Suit Mod",
+    "website": "https://github.com/vr-commiter/ZeroCaliber2",
+    "version_list": [
+        {
+            "date_updated": "",
+            "download_link": "https://github.com/vr-commiter/ZeroCaliber2/releases/download/v0.1.0-beta/05e47eb5ddae8e775223810fc91c5cf0.zip",
+            "md5_value": "05e47eb5ddae8e775223810fc91c5cf0",
+            "version": "v0.1.0-beta",
+            "status": "beta"
+        }
+    ],
+    "mods": []
+}

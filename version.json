@@ -523,5 +523,10 @@
         "appid": "custom_-10003",
         "platform": "custom",
         "game_name": "Simhub"
+    },
+    {
+        "appid": "steam_2719740",
+        "platform": "steam",
+        "game_name": "Zero Caliber 2"
     }
 ]

@@ -1,0 +1,11 @@
+{
+    "game_name": "Thief VR:Legacy of Shadow",
+    "appid": "steam_2800080",
+    "mods": [
+        {
+            "author_name": "vr-commiter",
+            "file": "truegear_driver.json",
+            "title": "Thief VR:Legacy of Shadow TrueGear Suit Mod"
+        }
+    ]
+}

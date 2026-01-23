@@ -528,5 +528,10 @@
         "appid": "steam_2719740",
         "platform": "steam",
         "game_name": "Zero Caliber 2"
+    },
+    {
+        "appid": "steam_2800080",
+        "platform": "steam",
+        "game_name": "Thief VR:Legacy of Shadow"
     }
 ]

@@ -1,0 +1,17 @@
+{
+    "author_name": "vr-commiter",
+    "game_name": "Thief VR:Legacy of Shadow",
+    "appid": "steam_2800080",
+    "desc": "Thief VR:Legacy of Shadow Suit Mod",
+    "website": "https://github.com/vr-commiter/ThiefVRLegacyOfShadow",
+    "version_list": [
+        {
+            "date_updated": "",
+            "download_link": "https://github.com/vr-commiter/ThiefVRLegacyOfShadow/releases/download/v0.1.0-beta/400ee82a80886cdfc530d9be6dc7dd5c.zip",
+            "md5_value": "400ee82a80886cdfc530d9be6dc7dd5c",
+            "version": "v0.1.0-beta",
+            "status": "beta"
+        }
+    ],
+    "mods": []
+}

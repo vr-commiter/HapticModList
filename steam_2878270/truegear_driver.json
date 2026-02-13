@@ -1,0 +1,17 @@
+{
+    "author_name": "vr-commiter",
+    "game_name": "Metal Hellsinger VR",
+    "appid": "steam_2878270",
+    "desc": "Metal Hellsinger VR Suit Mod",
+    "website": "https://github.com/vr-commiter/MetalHellsingerVR",
+    "version_list": [
+        {
+            "date_updated": "",
+            "download_link": "https://github.com/vr-commiter/MetalHellsingerVR/releases/download/v0.1.0-beta/53ec85df8d7857e3731b39e7f95e7341.zip",
+            "md5_value": "53ec85df8d7857e3731b39e7f95e7341",
+            "version": "v0.1.0-beta",
+            "status": "beta"
+        }
+    ],
+    "mods": []
+}

@@ -533,5 +533,10 @@
         "appid": "steam_2800080",
         "platform": "steam",
         "game_name": "Thief VR:Legacy of Shadow"
+    },
+    {
+        "appid": "steam_2878270",
+        "platform": "steam",
+        "game_name": "Metal Hellsinger VR"
     }
 ]

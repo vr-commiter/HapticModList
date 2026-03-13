@@ -1,0 +1,17 @@
+{
+    "author_name": "vr-commiter",
+    "game_name": "Survival Nation",
+    "appid": "steam_2153780",
+    "desc": "Survival Nation Suit Mod",
+    "website": "https://github.com/vr-commiter/SurvivalNation",
+    "version_list": [
+        {
+            "date_updated": "",
+            "download_link": "https://github.com/vr-commiter/SurvivalNation/releases/download/v0.1.0-beta/f91a977b06fa937bdd366be8518c1c22.zip",
+            "md5_value": "f91a977b06fa937bdd366be8518c1c22",
+            "version": "v0.1.0-beta",
+            "status": "beta"
+        }
+    ],
+    "mods": []
+}

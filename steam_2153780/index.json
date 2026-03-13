@@ -1,0 +1,11 @@
+{
+    "game_name": "Survival Nation",
+    "appid": "steam_2153780",
+    "mods": [
+        {
+            "author_name": "vr-commiter",
+            "file": "truegear_driver.json",
+            "title": "Survival Nation TrueGear Suit Mod"
+        }
+    ]
+}

@@ -538,5 +538,10 @@
         "appid": "steam_2878270",
         "platform": "steam",
         "game_name": "Metal Hellsinger VR"
+    },
+    {
+        "appid": "steam_2153780",
+        "platform": "steam",
+        "game_name": "Survival Nation"
     }
 ]

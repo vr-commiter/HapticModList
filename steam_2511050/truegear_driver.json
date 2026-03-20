@@ -1,0 +1,17 @@
+{
+    "author_name": "vr-commiter",
+    "game_name": "Brazen Blaze",
+    "appid": "steam_2511050",
+    "desc": "Brazen Blaze Suit Mod",
+    "website": "https://github.com/vr-commiter/BrazenBlaze",
+    "version_list": [
+        {
+            "date_updated": "",
+            "download_link": "https://github.com/vr-commiter/BrazenBlaze/releases/download/v0.1.0-beta/33277ab36e530620c3ee1f4467ef4665.zip",
+            "md5_value": "33277ab36e530620c3ee1f4467ef4665",
+            "version": "v0.1.0-beta",
+            "status": "beta"
+        }
+    ],
+    "mods": []
+}

@@ -543,5 +543,10 @@
         "appid": "steam_2153780",
         "platform": "steam",
         "game_name": "Survival Nation"
+    },
+    {
+        "appid": "steam_2511050",
+        "platform": "steam",
+        "game_name": "Brazen Blaze"
     }
 ]

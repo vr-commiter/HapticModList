@@ -1,0 +1,11 @@
+{
+    "game_name": "Brazen Blaze",
+    "appid": "steam_2511050",
+    "mods": [
+        {
+            "author_name": "vr-commiter",
+            "file": "truegear_driver.json",
+            "title": "Brazen Blaze TrueGear Suit Mod"
+        }
+    ]
+}

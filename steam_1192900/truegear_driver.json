@@ -1,0 +1,17 @@
+{
+    "author_name": "vr-commiter",
+    "game_name": "Iron Rebellion",
+    "appid": "steam_1192900",
+    "desc": "Iron Rebellion Suit Mod",
+    "website": "https://github.com/vr-commiter/Iron Rebellion",
+    "version_list": [
+        {
+            "date_updated": "",
+            "download_link": "https://github.com/vr-commiter/Iron Rebellion/releases/download/v0.1.0-beta/f7ffcdb9ebc6829fafe75a5aca68eefe.zip",
+            "md5_value": "f7ffcdb9ebc6829fafe75a5aca68eefe",
+            "version": "v0.1.0-beta",
+            "status": "beta"
+        }
+    ],
+    "mods": []
+}

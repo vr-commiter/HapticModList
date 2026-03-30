@@ -1,0 +1,17 @@
+{
+    "author_name": "vr-commiter",
+    "game_name": "Hubris",
+    "appid": "steam_1265800",
+    "desc": "Hubris Suit Mod",
+    "website": "https://github.com/vr-commiter/Huris",
+    "version_list": [
+        {
+            "date_updated": "",
+            "download_link": "https://github.com/vr-commiter/Huris/releases/download/v0.1.0-beta/1603ea49ed16bb8a05075bb02232fe05.zip",
+            "md5_value": "1603ea49ed16bb8a05075bb02232fe05",
+            "version": "v0.1.0-beta",
+            "status": "beta"
+        }
+    ],
+    "mods": []
+}

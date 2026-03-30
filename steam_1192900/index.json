@@ -1,0 +1,11 @@
+{
+    "game_name": "Iron Rebellion",
+    "appid": "steam_1192900",
+    "mods": [
+        {
+            "author_name": "vr-commiter",
+            "file": "truegear_driver.json",
+            "title": "Iron Rebellion TrueGear Suit Mod"
+        }
+    ]
+}

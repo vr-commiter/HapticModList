@@ -548,5 +548,15 @@
         "appid": "steam_2511050",
         "platform": "steam",
         "game_name": "Brazen Blaze"
+    },
+    {
+        "appid": "steam_1192900",
+        "platform": "steam",
+        "game_name": "Iron Rebellion"
+    },
+    {
+        "appid": "steam_1265800",
+        "platform": "steam",
+        "game_name": "Hubris"
     }
 ]

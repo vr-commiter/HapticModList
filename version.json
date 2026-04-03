@@ -558,5 +558,10 @@
         "appid": "steam_1265800",
         "platform": "steam",
         "game_name": "Hubris"
+    },
+    {
+        "appid": "steam_3764200",
+        "platform": "steam",
+        "game_name": "Resident Evil Requiem"
     }
 ]

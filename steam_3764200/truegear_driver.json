@@ -1,0 +1,17 @@
+{
+    "author_name": "vr-commiter",
+    "game_name": "Resident Evil Requiem",
+    "appid": "steam_.3764200",
+    "desc": "Resident Evil Requiem Suit Mod",
+    "website": "https://github.com/vr-commiter/ResidentEvilRequiem",
+    "version_list": [
+        {
+            "date_updated": "",
+            "download_link": "https://github.com/vr-commiter/ResidentEvilRequiem/releases/download/v0.1.0-beta/920ff39350cc7f2bea160a954c6125dd.zip",
+            "md5_value": "920ff39350cc7f2bea160a954c6125dd",
+            "version": "v0.1.0-beta",
+            "status": "beta"
+        }
+    ],
+    "mods": []
+}

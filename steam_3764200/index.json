@@ -1,0 +1,11 @@
+{
+    "game_name": "Resident Evil Requiem",
+    "appid": "steam_3764200",
+    "mods": [
+        {
+            "author_name": "vr-commiter",
+            "file": "truegear_driver.json",
+            "title": "Resident Evil Requiem TrueGear Suit Mod"
+        }
+    ]
+}

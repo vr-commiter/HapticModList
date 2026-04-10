@@ -563,5 +563,10 @@
         "appid": "steam_3764200",
         "platform": "steam",
         "game_name": "Resident Evil Requiem"
+    },
+    {
+        "appid": "steam_752480",
+        "platform": "steam",
+        "game_name": "Sniper Elite VR"
     }
 ]

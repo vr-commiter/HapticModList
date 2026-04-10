@@ -1,0 +1,17 @@
+{
+    "author_name": "vr-commiter",
+    "game_name": "Sniper Elite VR",
+    "appid": "steam_752480",
+    "desc": "Sniper Elite VR Suit Mod",
+    "website": "https://github.com/vr-commiter/SniperEliteVR",
+    "version_list": [
+        {
+            "date_updated": "",
+            "download_link": "https://github.com/vr-commiter/SniperEliteVR/releases/download/v0.1.0-beta/9d717f5a984dddfb2e3c717da2806cc5.zip",
+            "md5_value": "9d717f5a984dddfb2e3c717da2806cc5",
+            "version": "v0.1.0-beta",
+            "status": "beta"
+        }
+    ],
+    "mods": []
+}

@@ -568,5 +568,15 @@
         "appid": "steam_752480",
         "platform": "steam",
         "game_name": "Sniper Elite VR"
+    },
+    {
+        "appid": "steam_2469330",
+        "platform": "steam",
+        "game_name": "The Pirate Queen:A Forgotten Legend"
+    },
+    {
+        "appid": "steam_468920",
+        "platform": "steam",
+        "game_name": "Ultimate Fishing Simulator"
     }
 ]

@@ -1,0 +1,17 @@
+{
+    "author_name": "vr-commiter",
+    "game_name": "The Pirate Queen:A Forgotten Legend",
+    "appid": "steam_2469330",
+    "desc": "The Pirate Queen:A Forgotten Legend Suit Mod",
+    "website": "https://github.com/vr-commiter/ThePirateQueen",
+    "version_list": [
+        {
+            "date_updated": "",
+            "download_link": "https://github.com/vr-commiter/ThePirateQueen/releases/download/v0.1.0-beta/06dfb068902e0ab202978557efd0d8a0.zip",
+            "md5_value": "06dfb068902e0ab202978557efd0d8a0",
+            "version": "v0.1.0-beta",
+            "status": "beta"
+        }
+    ],
+    "mods": []
+}

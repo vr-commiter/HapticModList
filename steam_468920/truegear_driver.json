@@ -1,0 +1,17 @@
+{
+    "author_name": "vr-commiter",
+    "game_name": "Ultimate Fishing Simulator",
+    "appid": "steam_468920",
+    "desc": "Ultimate Fishing Simulator Suit Mod",
+    "website": "https://github.com/vr-commiter/UltimateFishingSimulator",
+    "version_list": [
+        {
+            "date_updated": "",
+            "download_link": "https://github.com/vr-commiter/UltimateFishingSimulator/releases/download/v0.1.0-beta/3ad2dec360a32da368962bf35125678a.zip",
+            "md5_value": "3ad2dec360a32da368962bf35125678a",
+            "version": "v0.1.0-beta",
+            "status": "beta"
+        }
+    ],
+    "mods": []
+}

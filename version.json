@@ -578,5 +578,10 @@
         "appid": "steam_468920",
         "platform": "steam",
         "game_name": "Ultimate Fishing Simulator"
+    },
+    {
+        "appid": "steam_1701560",
+        "platform": "steam",
+        "game_name": "RUINSMAGUS"
     }
 ]

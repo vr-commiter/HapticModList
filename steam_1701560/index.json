@@ -1,0 +1,11 @@
+{
+    "game_name": "RUINSMAGUS",
+    "appid": "steam_1701560",
+    "mods": [
+        {
+            "author_name": "vr-commiter",
+            "file": "truegear_driver.json",
+            "title": "RUINSMAGUS TrueGear Suit Mod"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "author_name": "vr-commiter",
+    "game_name": "RUINSMAGUS",
+    "appid": "steam_1701560",
+    "desc": "RUINSMAGUS Suit Mod",
+    "website": "https://github.com/vr-commiter/RUINSMAGUS",
+    "version_list": [
+        {
+            "date_updated": "",
+            "download_link": "https://github.com/vr-commiter/RUINSMAGUS/releases/download/v0.1.0-beta/89f99a10978f6a8c6de76b39c2bb6321.zip",
+            "md5_value": "89f99a10978f6a8c6de76b39c2bb6321",
+            "version": "v0.1.0-beta",
+            "status": "beta"
+        }
+    ],
+    "mods": []
+}

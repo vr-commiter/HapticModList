@@ -1,0 +1,11 @@
+{
+    "game_name": "Escape Simulator",
+    "appid": "steam_1435790",
+    "mods": [
+        {
+            "author_name": "vr-commiter",
+            "file": "truegear_driver.json",
+            "title": "Escape Simulator TrueGear Suit Mod"
+        }
+    ]
+}

@@ -583,5 +583,10 @@
         "appid": "steam_1701560",
         "platform": "steam",
         "game_name": "RUINSMAGUS"
+    },
+    {
+        "appid": "steam_1435790",
+        "platform": "steam",
+        "game_name": "Escape Simulator"
     }
 ]

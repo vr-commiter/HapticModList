@@ -1,0 +1,17 @@
+{
+    "author_name": "vr-commiter",
+    "game_name": "Escape Simulator",
+    "appid": "steam_1435790",
+    "desc": "Escape Simulator Suit Mod",
+    "website": "https://github.com/vr-commiter/EscapeSimulator",
+    "version_list": [
+        {
+            "date_updated": "",
+            "download_link": "https://github.com/vr-commiter/EscapeSimulator/releases/download/v0.1.0-beta/3b74c630eb17be06b40d190a434d17c9.zip",
+            "md5_value": "3b74c630eb17be06b40d190a434d17c9",
+            "version": "v0.1.0-beta",
+            "status": "beta"
+        }
+    ],
+    "mods": []
+}

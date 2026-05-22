@@ -588,5 +588,10 @@
         "appid": "steam_1435790",
         "platform": "steam",
         "game_name": "Escape Simulator"
+    },
+    {
+        "appid": "steam_3430260",
+        "platform": "steam",
+        "game_name": "WRATH: Aeon of Ruin VR - Brutal Edition"
     }
 ]

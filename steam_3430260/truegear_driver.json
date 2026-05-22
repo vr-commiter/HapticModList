@@ -1,0 +1,17 @@
+{
+    "author_name": "vr-commiter",
+    "game_name": "WRATH: Aeon of Ruin VR - Brutal Edition",
+    "appid": "steam_1435790",
+    "desc": "WRATH: Aeon of Ruin VR - Brutal Edition Suit Mod",
+    "website": "https://github.com/vr-commiter/WrathAeonofRuinVR",
+    "version_list": [
+        {
+            "date_updated": "",
+            "download_link": "https://github.com/vr-commiter/WrathAeonofRuinVR/releases/download/v0.1.0-beta/5529f86efdcfe304c02beaff67feb26d.zip",
+            "md5_value": "5529f86efdcfe304c02beaff67feb26d",
+            "version": "v0.1.0-beta",
+            "status": "beta"
+        }
+    ],
+    "mods": []
+}

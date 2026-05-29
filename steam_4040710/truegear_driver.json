@@ -1,0 +1,17 @@
+{
+    "author_name": "vr-commiter",
+    "game_name": "Marrow Marrow",
+    "appid": "steam_4040710",
+    "desc": "Marrow Marrow Suit Mod",
+    "website": "https://github.com/vr-commiter/MarrowMarrow",
+    "version_list": [
+        {
+            "date_updated": "",
+            "download_link": "https://github.com/vr-commiter/MarrowMarrow/releases/download/v0.1.0-beta/6cf25c05771eaa3bfccca3ed6c51a138.zip",
+            "md5_value": "6cf25c05771eaa3bfccca3ed6c51a138",
+            "version": "v0.1.0-beta",
+            "status": "beta"
+        }
+    ],
+    "mods": []
+}

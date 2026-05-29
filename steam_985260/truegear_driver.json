@@ -1,0 +1,17 @@
+{
+    "author_name": "vr-commiter",
+    "game_name": "The Morrigan",
+    "appid": "steam_985260",
+    "desc": "The Morrigan Suit Mod",
+    "website": "https://github.com/vr-commiter/TheMorrigan",
+    "version_list": [
+        {
+            "date_updated": "",
+            "download_link": "https://github.com/vr-commiter/TheMorrigan/releases/download/v0.1.0-beta/f4b418483ea7e51427ec910a47c155c3.zip",
+            "md5_value": "f4b418483ea7e51427ec910a47c155c3",
+            "version": "v0.1.0-beta",
+            "status": "beta"
+        }
+    ],
+    "mods": []
+}

@@ -593,5 +593,15 @@
         "appid": "steam_3430260",
         "platform": "steam",
         "game_name": "WRATH: Aeon of Ruin VR - Brutal Edition"
+    },
+    {
+        "appid": "steam_4040710",
+        "platform": "steam",
+        "game_name": "Marrow Marrow"
+    },
+    {
+        "appid": "steam_985260",
+        "platform": "steam",
+        "game_name": "The Morrigan"
     }
 ]

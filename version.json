@@ -603,5 +603,10 @@
         "appid": "steam_985260",
         "platform": "steam",
         "game_name": "The Morrigan"
+    },
+    {
+        "appid": "steam_1942110",
+        "platform": "steam",
+        "game_name": "Bootstrap Island"
     }
 ]

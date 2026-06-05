@@ -1,0 +1,17 @@
+{
+    "author_name": "vr-commiter",
+    "game_name": "Bootstrap Island",
+    "appid": "steam_1942110",
+    "desc": "Bootstrap Island Suit Mod",
+    "website": "https://github.com/vr-commiter/bootstrapIsland",
+    "version_list": [
+        {
+            "date_updated": "",
+            "download_link": "https://github.com/vr-commiter/bootstrapIsland/releases/download/v0.1.0-beta/55bd5194dddc3d8f4fe90ecf4d850c27.zip",
+            "md5_value": "55bd5194dddc3d8f4fe90ecf4d850c27",
+            "version": "v0.1.0-beta",
+            "status": "beta"
+        }
+    ],
+    "mods": []
+}

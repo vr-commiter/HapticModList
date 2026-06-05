@@ -1,0 +1,11 @@
+{
+    "game_name": "Bootstrap Island",
+    "appid": "steam_1942110",
+    "mods": [
+        {
+            "author_name": "vr-commiter",
+            "file": "truegear_driver.json",
+            "title": "Bootstrap Island TrueGear Suit Mod"
+        }
+    ]
+}

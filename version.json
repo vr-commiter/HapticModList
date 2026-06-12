@@ -608,5 +608,10 @@
         "appid": "steam_1942110",
         "platform": "steam",
         "game_name": "Bootstrap Island"
+    },
+    {
+        "appid": "steam_496240",
+        "platform": "steam",
+        "game_name": "Onward"
     }
 ]

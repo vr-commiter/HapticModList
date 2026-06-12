@@ -1,0 +1,17 @@
+{
+    "author_name": "vr-commiter",
+    "game_name": "Onward",
+    "appid": "steam_496240",
+    "desc": "Onward Suit Mod",
+    "website": "https://github.com/vr-commiter/Onward",
+    "version_list": [
+        {
+            "date_updated": "",
+            "download_link": "https://github.com/vr-commiter/Onward/releases/download/v0.1.0-beta/f6d055d8d6128d73d5f5bf27b8c400a9.zip",
+            "md5_value": "f6d055d8d6128d73d5f5bf27b8c400a9",
+            "version": "v0.1.0-beta",
+            "status": "beta"
+        }
+    ],
+    "mods": []
+}

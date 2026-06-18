@@ -1,0 +1,11 @@
+{
+    "game_name": "Grimlord",
+    "appid": "steam_1910860",
+    "mods": [
+        {
+            "author_name": "vr-commiter",
+            "file": "truegear_driver.json",
+            "title": "Grimlord TrueGear Suit Mod"
+        }
+    ]
+}

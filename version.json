@@ -613,5 +613,10 @@
         "appid": "steam_496240",
         "platform": "steam",
         "game_name": "Onward"
+    },
+    {
+        "appid": "steam_1910860",
+        "platform": "steam",
+        "game_name": "Grimlord"
     }
 ]

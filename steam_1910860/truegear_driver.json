@@ -1,0 +1,17 @@
+{
+    "author_name": "vr-commiter",
+    "game_name": "Grimlord",
+    "appid": "steam_1910860",
+    "desc": "Grimlord Suit Mod",
+    "website": "https://github.com/vr-commiter/Grimlord",
+    "version_list": [
+        {
+            "date_updated": "",
+            "download_link": "https://github.com/vr-commiter/Grimlord/releases/download/v0.1.0-beta/6aafd12381bc594d8bf52c6afb13aba0.zip",
+            "md5_value": "6aafd12381bc594d8bf52c6afb13aba0",
+            "version": "v0.1.0-beta",
+            "status": "beta"
+        }
+    ],
+    "mods": []
+}

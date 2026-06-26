@@ -1,0 +1,11 @@
+{
+    "game_name": "Sairento VR",
+    "appid": "steam_555880",
+    "mods": [
+        {
+            "author_name": "vr-commiter",
+            "file": "truegear_driver.json",
+            "title": "Sairento VR TrueGear Suit Mod"
+        }
+    ]
+}

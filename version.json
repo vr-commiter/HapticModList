@@ -618,5 +618,10 @@
         "appid": "steam_1910860",
         "platform": "steam",
         "game_name": "Grimlord"
+    },
+    {
+        "appid": "steam_555880",
+        "platform": "steam",
+        "game_name": "Sairento VR"
     }
 ]

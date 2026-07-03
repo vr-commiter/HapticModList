@@ -623,5 +623,10 @@
         "appid": "steam_555880",
         "platform": "steam",
         "game_name": "Sairento VR"
+    },
+    {
+        "appid": "steam_503580",
+        "platform": "steam",
+        "game_name": "Duck Season"
     }
 ]

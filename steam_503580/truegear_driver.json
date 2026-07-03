@@ -1,0 +1,16 @@
+{
+    "author_name": "vr-commiter",
+    "game_name": "Duck Season",
+    "appid": "steam_503580",
+    "desc": "Duck Season TrueGear Suit Mod",
+    "website": "https://github.com/vr-commiter/DuckSeason",
+    "version_list": [
+        {
+            "date_updated": "",
+            "download_link": "https://github.com/vr-commiter/DuckSeason/releases/download/v0.1.0-beta/387b5dd562780266a926243e989f0bca.zip",
+            "md5_value": "387b5dd562780266a926243e989f0bca",
+            "version": "v0.1.0-beta",
+            "status": "beta"
+        }
+    ]
+}

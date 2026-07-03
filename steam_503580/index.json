@@ -1,0 +1,11 @@
+{
+    "game_name": "Duck Season",
+    "appid": "steam_503580",
+    "mods": [
+        {
+            "author_name": "vr-commiter",
+            "file": "truegear_driver.json",
+            "title": "Duck Season TrueGear Suit Mod"
+        }
+    ]
+}

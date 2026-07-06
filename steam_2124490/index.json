@@ -1,0 +1,11 @@
+{
+    "game_name": "SILENT HILL 2",
+    "appid": "steam_2124490",
+    "mods": [
+        {
+            "author_name": "vr-commiter",
+            "file": "truegear_driver.json",
+            "title": "SILENT HILL 2 TrueGear Suit Driver"
+        }
+    ]
+}

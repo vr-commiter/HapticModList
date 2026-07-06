@@ -1,0 +1,11 @@
+{
+    "game_name": "Resident Evil Village",
+    "appid": "steam_1196590",
+    "mods": [
+        {
+            "author_name": "vr-commiter",
+            "file": "truegear_driver.json",
+            "title": "Resident Evil Village TrueGear Suit Driver"
+        }
+    ]
+}

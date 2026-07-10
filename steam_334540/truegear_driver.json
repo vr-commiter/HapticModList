@@ -1,0 +1,16 @@
+{
+    "appid": "steam_334540",
+    "game_name": "Vox Machinae",
+    "author_name": "vr-commiter",
+    "desc": "Vox Machinae TrueGear Suit Driver",
+    "website": "https://github.com/vr-commiter/VoxMachinae",
+    "version_list": [
+        {
+            "date_updated": "",
+            "download_link": "https://github.com/vr-commiter/VoxMachinae/releases/download/v0.1.0-beta/3cb1a3228fcec6fa9176d77994185efd.zip",
+            "md5_value": "3cb1a3228fcec6fa9176d77994185efd",
+            "version": "v0.1.0-beta",
+            "status": "beta"
+        }
+    ]
+}

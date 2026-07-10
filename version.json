@@ -628,5 +628,30 @@
         "appid": "steam_503580",
         "platform": "steam",
         "game_name": "Duck Season"
+    },
+    {
+        "appid": "steam_2124490",
+        "platform": "steam",
+        "game_name": "SILENT HILL 2"
+    },
+    {
+        "appid": "steam_883710",
+        "platform": "steam",
+        "game_name": "Resident Evil 2"
+    },
+    {
+        "appid": "steam_952060",
+        "platform": "steam",
+        "game_name": "Resident Evil 3"
+    },
+    {
+        "appid": "steam_1196590",
+        "platform": "steam",
+        "game_name": "Resident Evil Village"
+    },
+    {
+        "appid": "steam_334540",
+        "platform": "steam",
+        "game_name": "Vox Machinae"
     }
 ]

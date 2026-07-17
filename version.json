@@ -653,5 +653,10 @@
         "appid": "steam_334540",
         "platform": "steam",
         "game_name": "Vox Machinae"
+    },
+    {
+        "appid": "steam_2296380",
+        "platform": "steam",
+        "game_name": "I Expect You To Die 3"
     }
 ]

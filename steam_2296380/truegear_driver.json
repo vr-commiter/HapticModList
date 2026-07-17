@@ -1,0 +1,16 @@
+{
+    "appid": "steam_2296380",
+    "game_name": "I Expect You To Die 3",
+    "author_name": "vr-commiter",
+    "desc": "I Expect You To Die 3 TrueGear Suit Driver",
+    "website": "https://github.com/vr-commiter/IExpectYouToDie3",
+    "version_list": [
+        {
+            "date_updated": "",
+            "download_link": "https://github.com/vr-commiter/IExpectYouToDie3/releases/download/v0.1.0-beta/031211d8e1ef5a33211987647e7aeac8.zip",
+            "md5_value": "031211d8e1ef5a33211987647e7aeac8",
+            "version": "v0.1.0-beta",
+            "status": "beta"
+        }
+    ]
+}

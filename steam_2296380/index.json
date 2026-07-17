@@ -1,0 +1,11 @@
+{
+    "game_name": "I Expect You To Die 3",
+    "appid": "steam_2296380",
+    "mods": [
+        {
+            "author_name": "vr-commiter",
+            "file": "truegear_driver.json",
+            "title": "I Expect You To Die 3 TrueGear Suit Driver"
+        }
+    ]
+}

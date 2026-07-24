@@ -1,0 +1,16 @@
+{
+    "appid": "steam_2314160",
+    "game_name": "Tactical Assault VR",
+    "author_name": "vr-commiter",
+    "desc": "Tactical Assault VR TrueGear Suit Driver",
+    "website": "https://github.com/vr-commiter/TacticalAssaultVR",
+    "version_list": [
+        {
+            "date_updated": "",
+            "download_link": "https://github.com/vr-commiter/TacticalAssaultVR/releases/download/v0.1.0-beta/d087b155c4e976436d320903e86c0888.zip",
+            "md5_value": "d087b155c4e976436d320903e86c0888",
+            "version": "v0.1.0-beta",
+            "status": "beta"
+        }
+    ]
+}

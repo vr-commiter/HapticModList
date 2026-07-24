@@ -658,5 +658,10 @@
         "appid": "steam_2296380",
         "platform": "steam",
         "game_name": "I Expect You To Die 3"
+    },
+    {
+        "appid": "steam_2314160",
+        "platform": "steam",
+        "game_name": "Tactical Assault VR"
     }
 ]

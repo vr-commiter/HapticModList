@@ -1,0 +1,16 @@
+{
+    "appid": "steam_3063750",
+    "game_name": "Pixel Dungeon VR",
+    "author_name": "vr-commiter",
+    "desc": "Pixel Dungeon VR TrueGear Suit Driver",
+    "website": "https://github.com/vr-commiter/PixelDungeonVR",
+    "version_list": [
+        {
+            "date_updated": "",
+            "download_link": "https://github.com/vr-commiter/PixelDungeonVR/releases/download/v0.1.0-beta/dc9b61d8dc0a1cfb34992abdba807965.zip",
+            "md5_value": "dc9b61d8dc0a1cfb34992abdba807965",
+            "version": "v0.1.0-beta",
+            "status": "beta"
+        }
+    ]
+}

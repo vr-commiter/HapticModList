@@ -663,5 +663,10 @@
         "appid": "steam_2314160",
         "platform": "steam",
         "game_name": "Tactical Assault VR"
+    },
+    {
+        "appid": "steam_3063750",
+        "platform": "steam",
+        "game_name": "Pixel Dungeon VR"
     }
 ]

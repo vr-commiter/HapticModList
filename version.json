@@ -668,5 +668,10 @@
         "appid": "steam_3063750",
         "platform": "steam",
         "game_name": "Pixel Dungeon VR"
+    },
+    {
+        "appid": "steam_2858370",
+        "platform": "steam",
+        "game_name": "Voxel Project VR"
     }
 ]

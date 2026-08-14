@@ -1,0 +1,16 @@
+{
+    "appid": "steam_2858370",
+    "game_name": "Voxel Project VR",
+    "author_name": "vr-commiter",
+    "desc": "Voxel Project VR TrueGear Suit Driver",
+    "website": "https://github.com/vr-commiter/VoxelProjectVR",
+    "version_list": [
+        {
+            "date_updated": "",
+            "download_link": "https://github.com/vr-commiter/VoxelProjectVR/releases/download/v0.1.0-beta/fa3797a1716b75e3c8b6ced7387d8ace.zip",
+            "md5_value": "fa3797a1716b75e3c8b6ced7387d8ace",
+            "version": "v0.1.0-beta",
+            "status": "beta"
+        }
+    ]
+}

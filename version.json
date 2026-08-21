@@ -673,5 +673,10 @@
         "appid": "steam_2858370",
         "platform": "steam",
         "game_name": "Voxel Project VR"
+    },
+    {
+        "appid": "steam_1499120",
+        "platform": "steam",
+        "game_name": "I Expect You To Die 2"
     }
 ]

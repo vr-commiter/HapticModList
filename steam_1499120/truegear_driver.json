@@ -1,0 +1,16 @@
+{
+    "appid": "steam_1499120",
+    "game_name": "I Expect You To Die 2",
+    "author_name": "vr-commiter",
+    "desc": "I Expect You To Die 2 TrueGear Suit Driver",
+    "website": "https://github.com/vr-commiter/IExpectYouToDie2",
+    "version_list": [
+        {
+            "date_updated": "",
+            "download_link": "https://github.com/vr-commiter/IExpectYouToDie2/releases/download/v0.1.0-beta/149f8e9c877b157042eae9841b67fd15.zip",
+            "md5_value": "149f8e9c877b157042eae9841b67fd15",
+            "version": "v0.1.0-beta",
+            "status": "beta"
+        }
+    ]
+}

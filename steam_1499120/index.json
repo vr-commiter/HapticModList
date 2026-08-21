@@ -1,0 +1,11 @@
+{
+    "game_name": "I Expect You To Die 2",
+    "appid": "steam_1499120",
+    "mods": [
+        {
+            "author_name": "vr-commiter",
+            "file": "truegear_driver.json",
+            "title": "I Expect You To Die 2 TrueGear Suit Driver"
+        }
+    ]
+}

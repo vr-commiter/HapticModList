@@ -678,5 +678,10 @@
         "appid": "steam_1499120",
         "platform": "steam",
         "game_name": "I Expect You To Die 2"
+    },
+    {
+        "appid": "steam_1465070",
+        "platform": "steam",
+        "game_name": "Legendary Tales"
     }
 ]

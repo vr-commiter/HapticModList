@@ -1,0 +1,16 @@
+{
+    "appid": "steam_1465070",
+    "game_name": "Legendary Tales",
+    "author_name": "vr-commiter",
+    "desc": "Legendary Tales TrueGear Suit Driver",
+    "website": "https://github.com/vr-commiter/LegendaryTales",
+    "version_list": [
+        {
+            "date_updated": "",
+            "download_link": "https://github.com/vr-commiter/LegendaryTales/releases/download/v0.1.0-beta/c513878fd92124ca777c576f87062747.zip",
+            "md5_value": "c513878fd92124ca777c576f87062747",
+            "version": "v0.1.0-beta",
+            "status": "beta"
+        }
+    ]
+}

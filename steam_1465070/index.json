@@ -1,0 +1,11 @@
+{
+    "game_name": "Legendary Tales",
+    "appid": "steam_1465070",
+    "mods": [
+        {
+            "author_name": "vr-commiter",
+            "file": "truegear_driver.json",
+            "title": "Legendary Tales TrueGear Suit Driver"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "appid": "steam_2701700",
+    "game_name": "Maestro",
+    "author_name": "vr-commiter",
+    "desc": "Maestro TrueGear Suit Driver",
+    "website": "https://github.com/vr-commiter/Maestro",
+    "version_list": [
+        {
+            "date_updated": "",
+            "download_link": "https://github.com/vr-commiter/Maestro/releases/download/v0.1.0-beta/3c7d9a063459c66d56a747679a3f78c1.zip",
+            "md5_value": "3c7d9a063459c66d56a747679a3f78c1",
+            "version": "v0.1.0-beta",
+            "status": "beta"
+        }
+    ]
+}

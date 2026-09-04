@@ -1,0 +1,11 @@
+{
+    "game_name": "Maestro",
+    "appid": "steam_2701700",
+    "mods": [
+        {
+            "author_name": "vr-commiter",
+            "file": "truegear_driver.json",
+            "title": "Maestro TrueGear Suit Driver"
+        }
+    ]
+}

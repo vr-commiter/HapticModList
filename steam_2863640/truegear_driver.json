@@ -1,0 +1,16 @@
+{
+    "appid": "steam_2863640",
+    "game_name": "The Midnight Walk",
+    "author_name": "vr-commiter",
+    "desc": "The Midnight Walk TrueGear Suit Driver",
+    "website": "https://github.com/vr-commiter/TheMidnightWalk",
+    "version_list": [
+        {
+            "date_updated": "",
+            "download_link": "https://github.com/vr-commiter/TheMidnightWalk/releases/download/v0.1.0-beta/0e4eebe16471a6f6682aee4b9e77e139.zip",
+            "md5_value": "0e4eebe16471a6f6682aee4b9e77e139",
+            "version": "v0.1.0-beta",
+            "status": "beta"
+        }
+    ]
+}

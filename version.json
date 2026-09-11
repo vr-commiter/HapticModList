@@ -688,5 +688,10 @@
         "appid": "steam_2701700",
         "platform": "steam",
         "game_name": "Maestro"
+    },
+    {
+        "appid": "steam_2863640",
+        "platform": "steam",
+        "game_name": "The Midnight Walk"
     }
 ]

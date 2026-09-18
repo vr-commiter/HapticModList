@@ -693,5 +693,10 @@
         "appid": "steam_2863640",
         "platform": "steam",
         "game_name": "The Midnight Walk"
+    },
+    {
+        "appid": "steam_2669410",
+        "platform": "steam",
+        "game_name": "Metro Awakening"
     }
 ]

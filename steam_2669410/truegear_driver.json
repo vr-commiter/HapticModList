@@ -1,0 +1,16 @@
+{
+    "appid": "steam_2669410",
+    "game_name": "Metro Awakening",
+    "author_name": "vr-commiter",
+    "desc": "Metro Awakening TrueGear Suit Driver",
+    "website": "https://github.com/vr-commiter/MetroAwakening",
+    "version_list": [
+        {
+            "date_updated": "",
+            "download_link": "https://github.com/vr-commiter/MetroAwakening/releases/download/v0.1.0-beta/7f08dec5a000f9b80786d9393d1d4370.zip",
+            "md5_value": "7f08dec5a000f9b80786d9393d1d4370",
+            "version": "v0.1.0-beta",
+            "status": "beta"
+        }
+    ]
+}

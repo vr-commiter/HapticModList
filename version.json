@@ -698,5 +698,10 @@
         "appid": "steam_2669410",
         "platform": "steam",
         "game_name": "Metro Awakening"
+    },
+    {
+        "appid": "steam_2421750",
+        "platform": "steam",
+        "game_name": "Gunman Contracts - Stand Alone"
     }
 ]

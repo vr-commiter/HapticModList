@@ -1,0 +1,16 @@
+{
+    "appid": "steam_2421750",
+    "game_name": "Gunman Contracts - Stand Alone",
+    "author_name": "vr-commiter",
+    "desc": "Gunman Contracts - Stand Alone TrueGear Suit Driver",
+    "website": "https://github.com/vr-commiter/GunmanContractsStandAlone",
+    "version_list": [
+        {
+            "date_updated": "",
+            "download_link": "https://github.com/vr-commiter/GunmanContractsStandAlone/releases/download/v0.1.0-beta/7c18301aadd91139733b6e84e7ba11e6.zip",
+            "md5_value": "7c18301aadd91139733b6e84e7ba11e6",
+            "version": "v0.1.0-beta",
+            "status": "beta"
+        }
+    ]
+}

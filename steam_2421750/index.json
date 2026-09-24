@@ -1,0 +1,11 @@
+{
+    "game_name": "Gunman Contracts - Stand Alone",
+    "appid": "steam_2421750",
+    "mods": [
+        {
+            "author_name": "vr-commiter",
+            "file": "truegear_driver.json",
+            "title": "Gunman Contracts - Stand Alone TrueGear Suit Driver"
+        }
+    ]
+}

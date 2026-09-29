@@ -703,5 +703,10 @@
         "appid": "steam_2421750",
         "platform": "steam",
         "game_name": "Gunman Contracts - Stand Alone"
+    },
+    {
+        "appid": "steam_1850050",
+        "platform": "steam",
+        "game_name": "Alien: Rogue Incursion VR"
     }
 ]

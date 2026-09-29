@@ -1,0 +1,16 @@
+{
+    "appid": "steam_1850050",
+    "game_name": "Alien: Rogue Incursion VR",
+    "author_name": "vr-commiter",
+    "desc": "Alien: Rogue Incursion VR TrueGear Suit Driver",
+    "website": "https://github.com/vr-commiter/AlienRogueIncursionVR",
+    "version_list": [
+        {
+            "date_updated": "",
+            "download_link": "https://github.com/vr-commiter/AlienRogueIncursionVR/releases/download/v0.1.0-beta/c273be2ae554a5d8fe19e4f1a62ad590.zip",
+            "md5_value": "c273be2ae554a5d8fe19e4f1a62ad590",
+            "version": "v0.1.0-beta",
+            "status": "beta"
+        }
+    ]
+}

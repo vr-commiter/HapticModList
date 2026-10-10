@@ -708,5 +708,10 @@
         "appid": "steam_1850050",
         "platform": "steam",
         "game_name": "Alien: Rogue Incursion VR"
+    },
+    {
+        "appid": "steam_3557790",
+        "platform": "steam",
+        "game_name": "Vendetta Forever"
     }
 ]

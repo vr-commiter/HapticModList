@@ -1,0 +1,16 @@
+{
+    "appid": "steam_3557790",
+    "game_name": "Vendetta Forever",
+    "author_name": "vr-commiter",
+    "desc": "Vendetta Forever TrueGear Suit Driver",
+    "website": "https://github.com/vr-commiter/VendettaForever",
+    "version_list": [
+        {
+            "date_updated": "",
+            "download_link": "https://github.com/vr-commiter/VendettaForever/releases/download/v0.1.0-beta/023e5828e98380428db75fee4e9296df.zip",
+            "md5_value": "023e5828e98380428db75fee4e9296df",
+            "version": "v0.1.0-beta",
+            "status": "beta"
+        }
+    ]
+}

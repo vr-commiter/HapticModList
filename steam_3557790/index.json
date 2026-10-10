@@ -1,0 +1,11 @@
+{
+    "game_name": "Vendetta Forever",
+    "appid": "steam_3557790",
+    "mods": [
+        {
+            "author_name": "vr-commiter",
+            "file": "truegear_driver.json",
+            "title": "Vendetta Forever TrueGear Suit Driver"
+        }
+    ]
+}

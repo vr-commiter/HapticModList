@@ -1,0 +1,17 @@
+{
+    "appid": "steam_1237970",
+    "game_name": "Titanfall 2",
+    "author_name": "vr-commiter",
+    "desc": "Titanfall 2 TrueGear Suit Driver",
+    "website": "https://github.com/vr-commiter/Titanfall2",
+    "readme_link": "https://github.com/vr-commiter/Titanfall2/blob/master/README.md",
+    "version_list": [
+        {
+            "date_updated": "",
+            "download_link": "https://github.com/vr-commiter/Titanfall2/releases/download/v0.1.0-beta/c0d3671693de79286411f953e0354724.zip",
+            "md5_value": "c0d3671693de79286411f953e0354724",
+            "version": "v0.1.0-beta",
+            "status": "beta"
+        }
+    ]
+}

@@ -713,5 +713,10 @@
         "appid": "steam_3557790",
         "platform": "steam",
         "game_name": "Vendetta Forever"
+    },
+    {
+        "appid": "steam_1237970",
+        "platform": "steam",
+        "game_name": "Titanfall 2"
     }
 ]

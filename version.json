@@ -718,5 +718,10 @@
         "appid": "steam_1237970",
         "platform": "steam",
         "game_name": "Titanfall 2"
+    },
+    {
+        "appid": "steam_2019620",
+        "platform": "steam",
+        "game_name": "GERONIMO"
     }
 ]

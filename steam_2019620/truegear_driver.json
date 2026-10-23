@@ -1,0 +1,16 @@
+{
+    "appid": "steam_2019620",
+    "game_name": "GERONIMO",
+    "author_name": "vr-commiter",
+    "desc": "GERONIMO TrueGear Suit Driver",
+    "website": "https://github.com/vr-commiter/GERONIMO",
+    "version_list": [
+        {
+            "date_updated": "",
+            "download_link": "https://github.com/vr-commiter/GERONIMO/releases/download/v0.1.0-beta/d260839ab9baa7450563ac05994f9219.zip",
+            "md5_value": "d260839ab9baa7450563ac05994f9219",
+            "version": "v0.1.0-beta",
+            "status": "beta"
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "appid": "steam_3606610",
+    "game_name": "Into Black",
+    "author_name": "vr-commiter",
+    "desc": "Into Black TrueGear Suit Driver",
+    "website": "https://github.com/vr-commiter/IntoBlack",
+    "version_list": [
+        {
+            "date_updated": "",
+            "download_link": "https://github.com/vr-commiter/IntoBlack/releases/download/v0.1.0-beta/da60abe1179901bba54cf0732057b1c8.zip",
+            "md5_value": "da60abe1179901bba54cf0732057b1c8",
+            "version": "v0.1.0-beta",
+            "status": "beta"
+        }
+    ]
+}

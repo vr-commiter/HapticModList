@@ -723,5 +723,10 @@
         "appid": "steam_2019620",
         "platform": "steam",
         "game_name": "GERONIMO"
+    },
+    {
+        "appid": "steam_3606610",
+        "platform": "steam",
+        "game_name": "Into Black"
     }
 ]

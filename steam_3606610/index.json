@@ -1,0 +1,11 @@
+{
+    "game_name": "Into Black",
+    "appid": "steam_2669410",
+    "mods": [
+        {
+            "author_name": "vr-commiter",
+            "file": "truegear_driver.json",
+            "title": "Into Black TrueGear Suit Driver"
+        }
+    ]
+}

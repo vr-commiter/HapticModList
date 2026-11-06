@@ -728,5 +728,10 @@
         "appid": "steam_3606610",
         "platform": "steam",
         "game_name": "Into Black"
+    },
+    {
+        "appid": "steam_4115450",
+        "platform": "steam",
+        "game_name": "Phantom Blade Zero"
     }
 ]

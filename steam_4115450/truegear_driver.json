@@ -1,0 +1,16 @@
+{
+    "appid": "steam_4115450",
+    "game_name": "Phantom Blade Zero",
+    "author_name": "vr-commiter",
+    "desc": "Phantom Blade Zero TrueGear Suit Driver",
+    "website": "https://github.com/vr-commiter/PhantomBladeZero",
+    "version_list": [
+        {
+            "date_updated": "",
+            "download_link": "https://github.com/vr-commiter/PhantomBladeZero/releases/download/v0.1.0-beta/e8ae5f244e3c273e45e7dd7d81e3ef36.zip",
+            "md5_value": "e8ae5f244e3c273e45e7dd7d81e3ef36",
+            "version": "v0.1.0-beta",
+            "status": "beta"
+        }
+    ]
+}

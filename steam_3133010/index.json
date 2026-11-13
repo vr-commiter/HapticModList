@@ -1,0 +1,11 @@
+{
+    "game_name": "Tiny Flock",
+    "appid": "steam_3133010",
+    "mods": [
+        {
+            "author_name": "vr-commiter",
+            "file": "truegear_driver.json",
+            "title": "Tiny Flock TrueGear Suit Mod"
+        }
+    ]
+}

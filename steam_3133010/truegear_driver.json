@@ -1,0 +1,16 @@
+{
+    "author_name": "vr-commiter",
+    "game_name": "Tiny Flock",
+    "appid": "steam_3133010",
+    "desc": "Tiny Flock TrueGear Suit Mod",
+    "website": "https://github.com/vr-commiter/TinyFlock",
+    "version_list": [
+        {
+            "date_updated": "",
+            "download_link": "https://github.com/vr-commiter/TinyFlock/releases/download/v0.1.0-beta/adb47a6496f80eff28b891d9886c9741.zip",
+            "md5_value": "adb47a6496f80eff28b891d9886c9741",
+            "version": "v0.1.0-beta",
+            "status": "beta"
+        }
+    ]
+}
